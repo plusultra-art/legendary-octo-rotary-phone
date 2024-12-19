@@ -118,6 +118,8 @@
       "lavender_field": "2024-12-19 18:55:38 +0000",
       "fir_clearing": "2024-12-17 01:59:42 +0000",
       "grassland": "2024-12-15 00:22:39 +0000",
+      "snowy_coniferous_forest": "2024-12-19 19:24:52 +0000",
+      "snowy_fir_clearing": "2024-12-19 19:26:37 +0000",
       "tundra": "2024-12-19 19:08:57 +0000",
       "snowy_maple_woods": "2024-12-19 19:04:21 +0000",
       "ominous_woods": "2024-12-17 15:59:55 +0000"
@@ -7224,6 +7226,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-19 19:16:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2024-12-19 19:07:57 +0000"
@@ -7260,9 +7268,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-19 19:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-12-19 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-19 19:15:52 +0000"
     },
     "done": true
   },
@@ -7275,6 +7295,12 @@
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2024-12-19 18:06:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-19 19:22:50 +0000"
     },
     "done": true
   },
@@ -7314,6 +7340,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-12-19 19:15:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-19 18:55:46 +0000"
@@ -7337,6 +7369,12 @@
       "vinery:red_grape_seeds": "2024-12-19 18:56:06 +0000"
     },
     "done": false
+  },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2024-12-19 19:15:52 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
@@ -7404,6 +7442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 19:15:52 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-19 19:09:52 +0000"
@@ -7464,6 +7508,12 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2024-12-19 19:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 19:07:57 +0000"
@@ -7512,6 +7562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 19:15:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-19 18:51:49 +0000"
@@ -7545,6 +7601,12 @@
   "mcwfurnitures:recipes/cherry": {
     "criteria": {
       "has_wood": "2024-12-19 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2024-12-19 19:15:52 +0000"
     },
     "done": true
   },
@@ -7593,6 +7655,12 @@
   "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
       "has_straw": "2024-12-19 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2024-12-19 19:16:35 +0000"
     },
     "done": true
   },
@@ -7671,6 +7739,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_cherry_planks": "2024-12-19 19:07:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-19 19:22:50 +0000"
     },
     "done": true
   },

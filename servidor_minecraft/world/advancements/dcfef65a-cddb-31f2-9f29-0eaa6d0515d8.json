@@ -107,14 +107,17 @@
       "shrubland": "2024-12-18 19:26:54 +0000",
       "snowblossom_grove": "2024-12-15 03:14:09 +0000",
       "rocky_shrubland": "2024-12-15 04:24:49 +0000",
+      "highland": "2024-12-19 19:50:10 +0000",
       "jade_cliffs": "2024-12-15 02:02:38 +0000",
       "clover_patch": "2024-12-15 02:00:10 +0000",
       "cold_desert": "2024-12-19 00:00:35 +0000",
       "maple_woods": "2024-12-15 03:11:43 +0000",
       "orchard": "2024-12-15 02:55:52 +0000",
+      "field": "2024-12-19 19:55:17 +0000",
       "lavender_forest": "2024-12-15 02:55:54 +0000",
       "coniferous_forest": "2024-12-18 20:35:21 +0000",
       "redwood_forest": "2024-12-15 02:02:44 +0000",
+      "seasonal_orchard": "2024-12-19 19:53:34 +0000",
       "seasonal_forest": "2024-12-15 03:11:42 +0000",
       "auroral_garden": "2024-12-15 03:20:39 +0000",
       "lavender_field": "2024-12-15 02:07:20 +0000",
@@ -6447,6 +6450,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-19 18:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-19 19:43:51 +0000"
     },
     "done": true
   },

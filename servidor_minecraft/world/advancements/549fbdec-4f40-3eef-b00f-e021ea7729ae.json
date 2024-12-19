@@ -110,14 +110,17 @@
       "highland": "2024-12-17 14:28:05 +0000",
       "jade_cliffs": "2024-12-16 01:21:28 +0000",
       "clover_patch": "2024-12-15 00:17:36 +0000",
+      "cold_desert": "2024-12-19 19:42:32 +0000",
       "maple_woods": "2024-12-19 19:03:58 +0000",
       "orchard": "2024-12-15 18:06:21 +0000",
       "field": "2024-12-17 15:53:40 +0000",
       "coniferous_forest": "2024-12-17 01:48:09 +0000",
       "redwood_forest": "2024-12-17 14:25:20 +0000",
+      "seasonal_orchard": "2024-12-19 19:50:22 +0000",
       "auroral_garden": "2024-12-19 19:38:57 +0000",
       "lavender_field": "2024-12-19 18:55:38 +0000",
       "fir_clearing": "2024-12-17 01:59:42 +0000",
+      "pumpkin_patch": "2024-12-19 19:48:45 +0000",
       "grassland": "2024-12-15 00:22:39 +0000",
       "snowy_coniferous_forest": "2024-12-19 19:24:52 +0000",
       "snowy_fir_clearing": "2024-12-19 19:26:37 +0000",
@@ -7343,6 +7346,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-19 19:44:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
     "criteria": {
       "has_cherry_planks": "2024-12-19 19:07:57 +0000"
@@ -7358,6 +7367,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-19 19:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-19 19:43:49 +0000"
     },
     "done": true
   },
@@ -7742,6 +7757,12 @@
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2024-12-19 19:16:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-19 19:46:37 +0000"
     },
     "done": true
   },

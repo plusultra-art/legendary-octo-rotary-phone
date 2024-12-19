@@ -6169,3 +6169,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [19Dec2024 19:40:41.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 19:43:49.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [Light as a Rabbit]
 [19Dec2024 19:43:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [Light as a Rabbit]
+[19Dec2024 19:44:32.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [Hot Stuff]
+[19Dec2024 19:44:43.442] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[19Dec2024 19:44:44.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[19Dec2024 19:45:41.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:45:41.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:45:41.906] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2189ms or 43 ticks
+[19Dec2024 19:46:37.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has reached the goal [Exorcism]
+[19Dec2024 19:47:51.526] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=205, y=62, z=1617}
+[19Dec2024 19:50:31.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp got ripped apart by a Death Angel
+[19Dec2024 19:50:36.942] [Server thread/DEBUG] [twilightforest/]: Player santiesp (dcfef65a-cddb-31f2-9f29-0eaa6d0515d8) respawned and received items held in storage
+[19Dec2024 19:50:37.224] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[19Dec2024 19:50:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s was slain by Nightmare Stalker
+[19Dec2024 19:50:40.048] [Server thread/DEBUG] [twilightforest/]: Player sFACUsN6s (549fbdec-4f40-3eef-b00f-e021ea7729ae) respawned and received items held in storage
+[19Dec2024 19:50:40.065] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2073ms or 41 ticks
+[19Dec2024 19:50:40.246] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[19Dec2024 19:50:41.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:50:41.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:51:24.139] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2311ms or 46 ticks
+[19Dec2024 19:52:21.977] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=167, y=47, z=1581}
+[19Dec2024 19:54:46.290] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[19Dec2024 19:55:41.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:55:41.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:55:45.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sFACUsN6s lost connection: Disconnected
+[19Dec2024 19:55:45.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s left the game
+[19Dec2024 19:55:45.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Disconnected
+[19Dec2024 19:55:45.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game
+[19Dec2024 19:55:47.123] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3025ms or 60 ticks
+[19Dec2024 19:56:39.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 19:56:39.826] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[19Dec2024 19:56:39.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 19:56:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 19:56:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 19:56:39.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 19:56:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[19Dec2024 19:56:39.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 19:56:39.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19Dec2024 19:56:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[19Dec2024 19:56:39.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 19:56:39.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[19Dec2024 19:56:40.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:56:40.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:56:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 19:56:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[19Dec2024 19:56:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 19:56:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Dec2024 19:56:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[19Dec2024 19:56:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 19:56:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19Dec2024 19:56:40.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2024 19:56:40.217] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Dec2024 19:56:40.218] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[19Dec2024 19:56:40.223] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[19Dec2024 19:56:40.224] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[19Dec2024 19:56:40.233] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

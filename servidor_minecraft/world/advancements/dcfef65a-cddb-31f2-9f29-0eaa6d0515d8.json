@@ -6363,5 +6363,17 @@
     },
     "done": true
   },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2024-12-19 18:37:11 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2024-12-19 18:37:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

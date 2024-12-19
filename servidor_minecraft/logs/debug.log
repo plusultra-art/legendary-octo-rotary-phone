@@ -6123,3 +6123,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [19Dec2024 19:30:41.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 19:30:41.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 19:32:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has reached the goal [Quaint Scribe]
+[19Dec2024 19:34:19.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[19Dec2024 19:35:41.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:35:41.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:37:51.376] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=828, y=63, z=1450}
+[19Dec2024 19:38:38.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -6.503342015557337,0.0,-9.426312142048346
+[19Dec2024 19:38:38.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -7.385178037852029,0.0,-10.606094587381222
+[19Dec2024 19:38:38.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -8.284308632514012,0.0,-11.781770018500083
+[19Dec2024 19:38:38.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -9.201630944666249,0.0,-12.951002959064454
+[19Dec2024 19:38:38.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -10.137836101540302,0.0,-14.111479352151946
+[19Dec2024 19:38:38.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -11.093420351277018,0.0,-15.260917839525973
+[19Dec2024 19:38:38.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -12.068696046007176,0.0,-16.397079345691736
+[19Dec2024 19:38:38.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -13.063800952406723,0.0,-17.5177826789336
+[19Dec2024 19:38:38.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -14.078710364016274,0.0,-18.620907423286326
+[19Dec2024 19:38:38.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -15.113246972502907,0.0,-19.704410974220764
+[19Dec2024 19:38:38.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -16.16709271658783,0.0,-20.766328779104015
+[19Dec2024 19:38:38.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -17.23979946492409,0.0,-21.804781229824357
+[19Dec2024 19:38:38.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -18.330799783339558,0.0,-22.817979477757035
+[19Dec2024 19:38:38.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -19.43941779763236,0.0,-23.804230274916108
+[19Dec2024 19:38:38.140] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2693ms or 53 ticks
+[19Dec2024 19:38:38.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -14.92679685521307,0.0,-16.517792830586814
+[19Dec2024 19:38:38.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -16.068240722771634,0.0,-17.445465320960693
+[19Dec2024 19:38:38.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -17.224725948139735,0.0,-18.341706224816562
+[19Dec2024 19:38:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -10.225881239403066,0.0,-5.484701672361325
+[19Dec2024 19:38:49.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -11.677317091141276,0.0,-6.322984555743915
+[19Dec2024 19:38:49.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -13.128537654765807,0.0,-7.1722468450320775
+[19Dec2024 19:38:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -14.580177959347282,0.0,-8.031598679460103
+[19Dec2024 19:38:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -16.032832090098736,0.0,-8.900168066241122
+[19Dec2024 19:38:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -17.487057046185384,0.0,-9.777098744765226
+[19Dec2024 19:38:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -18.943371827400654,0.0,-10.661554009603606
+[19Dec2024 19:38:49.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -20.402258642203094,0.0,-11.552717268641572
+[19Dec2024 19:38:49.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -21.864169001413245,0.0,-12.449786570309698
+[19Dec2024 19:38:49.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -23.329518053188906,0.0,-13.35198443983677
+[19Dec2024 19:38:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -24.798692701253685,0.0,-14.258548951932426
+[19Dec2024 19:38:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -26.272048381164836,0.0,-15.168740512750219
+[19Dec2024 19:38:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -27.749912483643868,0.0,-16.081839029073308
+[19Dec2024 19:38:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -29.23258739410994,0.0,-16.997140882251642
+[19Dec2024 19:38:49.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -30.720347859583626,0.0,-17.913965987185748
+[19Dec2024 19:38:49.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -32.17835314412463,0.0,-18.812454607508243
+[19Dec2024 19:38:49.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -24.83811375610287,0.0,-15.036912669412231
+[19Dec2024 19:38:49.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -26.2473393775947,0.0,-15.904029593124505
+[19Dec2024 19:38:49.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved too quickly! -27.63308548207368,0.0,-16.755496314887296
+[19Dec2024 19:38:58.099] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2017ms or 40 ticks
+[19Dec2024 19:40:41.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:40:41.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:43:49.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [Light as a Rabbit]
+[19Dec2024 19:43:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [Light as a Rabbit]

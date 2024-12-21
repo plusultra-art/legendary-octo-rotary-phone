@@ -679,3 +679,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [21Dec2024 18:01:10.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
 [21Dec2024 18:02:16.237] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1144, y=68, z=1057}
 [21Dec2024 18:23:51.436] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2174ms or 43 ticks
+[21Dec2024 18:39:12.533] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1375, y=62, z=1020}
+[21Dec2024 18:41:45.534] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already

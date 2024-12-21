@@ -666,3 +666,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [21Dec2024 17:04:25.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
 [21Dec2024 17:04:34.784] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
 [21Dec2024 17:10:20.540] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2024ms or 40 ticks
+[21Dec2024 17:16:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s was slain by Nightmare Stalker
+[21Dec2024 17:16:46.281] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[21Dec2024 17:17:10.175] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2211ms or 44 ticks
+[21Dec2024 17:21:09.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already

@@ -671,3 +671,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [21Dec2024 17:17:10.175] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2211ms or 44 ticks
 [21Dec2024 17:21:09.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
 [21Dec2024 17:28:51.479] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2114ms or 42 ticks
+[21Dec2024 17:50:43.933] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2078ms or 41 ticks
+[21Dec2024 17:52:27.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s was slain by Nightmare Stalker
+[21Dec2024 17:52:29.055] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[21Dec2024 17:53:51.498] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2193ms or 43 ticks
+[21Dec2024 17:59:23.160] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
+[21Dec2024 18:01:10.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[21Dec2024 18:02:16.237] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1144, y=68, z=1057}

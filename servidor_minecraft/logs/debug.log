@@ -5462,3 +5462,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [21Dec2024 17:33:51.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 17:38:51.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 17:38:51.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:43:51.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 17:43:51.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:48:51.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 17:48:51.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:50:43.933] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2078ms or 41 ticks
+[21Dec2024 17:52:27.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s was slain by Nightmare Stalker
+[21Dec2024 17:52:28.860] [Server thread/DEBUG] [twilightforest/]: Player sFACUsN6s (549fbdec-4f40-3eef-b00f-e021ea7729ae) respawned and received items held in storage
+[21Dec2024 17:52:29.055] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[21Dec2024 17:53:51.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 17:53:51.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:53:51.498] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2193ms or 43 ticks
+[21Dec2024 17:58:51.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 17:58:51.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:59:23.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Dec2024 17:59:23.160] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
+[21Dec2024 18:01:10.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[21Dec2024 18:02:16.237] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1144, y=68, z=1057}

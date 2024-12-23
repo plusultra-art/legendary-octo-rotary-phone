@@ -8056,6 +8056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-12-23 19:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-23 17:54:54 +0000"
@@ -8125,6 +8131,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-23 17:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-23 19:25:32 +0000"
     },
     "done": true
   },

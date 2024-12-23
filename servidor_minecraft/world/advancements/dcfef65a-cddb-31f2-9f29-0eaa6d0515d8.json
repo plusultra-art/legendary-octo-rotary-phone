@@ -128,7 +128,8 @@
       "snowy_fir_clearing": "2024-12-15 03:20:01 +0000",
       "tundra": "2024-12-19 19:08:57 +0000",
       "crag": "2024-12-15 02:49:38 +0000",
-      "snowy_maple_woods": "2024-12-15 03:25:30 +0000"
+      "snowy_maple_woods": "2024-12-15 03:25:30 +0000",
+      "ominous_woods": "2024-12-23 18:44:19 +0000"
     },
     "done": false
   },
@@ -6639,6 +6640,12 @@
     },
     "done": true
   },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2024-12-23 18:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-23 17:45:51 +0000"
@@ -6678,6 +6685,18 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-12-23 18:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:all_black": "2024-12-23 18:45:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-23 18:45:46 +0000"
     },
     "done": true
   },

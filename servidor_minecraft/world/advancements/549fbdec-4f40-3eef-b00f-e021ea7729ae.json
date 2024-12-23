@@ -117,6 +117,7 @@
       "coniferous_forest": "2024-12-17 01:48:09 +0000",
       "redwood_forest": "2024-12-17 14:25:20 +0000",
       "seasonal_orchard": "2024-12-19 19:50:22 +0000",
+      "seasonal_forest": "2024-12-23 19:06:22 +0000",
       "auroral_garden": "2024-12-19 19:38:57 +0000",
       "lavender_field": "2024-12-19 18:55:38 +0000",
       "fir_clearing": "2024-12-17 01:59:42 +0000",
@@ -8120,6 +8121,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2024-12-23 19:07:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_diorite_corner_trim": "2024-12-23 17:55:22 +0000"
@@ -8150,6 +8157,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2024-12-23 19:07:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-23 17:55:22 +0000"
@@ -8165,6 +8178,12 @@
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2024-12-23 17:37:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-23 19:12:44 +0000"
     },
     "done": true
   },

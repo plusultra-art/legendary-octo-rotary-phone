@@ -892,3 +892,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [23Dec2024 19:02:44.951] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23Dec2024 19:02:45.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23Dec2024 19:02:45.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 19:07:19.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [Pseudo Archaeologist]
+[23Dec2024 19:07:23.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [Broken Parts II]
+[23Dec2024 19:09:52.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3867, y=68, z=-1969} BlockPos{x=-3864, y=66, z=-1967}
+[23Dec2024 19:09:55.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s suffocated in a wall whilst fighting Cyclops
+[23Dec2024 19:09:56.615] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2161ms or 43 ticks
+[23Dec2024 19:09:56.825] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[23Dec2024 19:10:54.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3882, y=63, z=-1952} BlockPos{x=-3869, y=68, z=-1963}
+[23Dec2024 19:11:00.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp suffocated in a wall
+[23Dec2024 19:11:02.103] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[23Dec2024 19:12:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [My Name is Nobody]

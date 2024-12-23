@@ -1038,6 +1038,7 @@
       "cooked_chicken": "2024-12-15 03:21:47 +0000",
       "mushroom_stew": "2024-12-15 04:11:36 +0000",
       "cod": "2024-12-15 04:02:28 +0000",
+      "rabbit_stew": "2024-12-23 18:52:34 +0000",
       "cooked_salmon": "2024-12-15 20:20:21 +0000",
       "carrot": "2024-12-15 18:19:28 +0000"
     },
@@ -6658,6 +6659,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-23 19:02:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2024-12-23 17:58:50 +0000"
@@ -6799,6 +6806,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-23 17:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-23 18:49:46 +0000"
     },
     "done": true
   },

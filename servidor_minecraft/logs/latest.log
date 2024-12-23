@@ -704,3 +704,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [23Dec2024 18:24:14.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of santiesp) moved wrongly! 0.5142630687064411
 [23Dec2024 18:24:15.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of santiesp) moved wrongly! 0.5421850619903807
 [23Dec2024 18:31:52.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[23Dec2024 18:35:49.237] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-846, y=74, z=560}
+[23Dec2024 18:37:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has completed the challenge [Just a Flesh Wound]
+[23Dec2024 18:41:34.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved wrongly! 0.2882495645758354
+[23Dec2024 18:41:34.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sFACUsN6s) moved wrongly! 0.3488372259556627

@@ -750,3 +750,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [23Dec2024 21:01:38.560] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2547ms or 50 ticks
 [23Dec2024 21:06:04.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Disconnected
 [23Dec2024 21:06:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game
+[23Dec2024 21:09:24.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiesp[/127.44.197.58:42157] logged in with entity id 7689 at (-930.0000973307954, 36.0, 692.8778876580749)
+[23Dec2024 21:09:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp joined the game
+[23Dec2024 21:09:25.116] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2178ms or 43 ticks
+[23Dec2024 21:09:36.669] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[23Dec2024 21:10:05.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[23Dec2024 21:10:14.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp moved too quickly! -9.779286773534864,0.7358406727282727,2.715507385179876
+[23Dec2024 21:10:14.252] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5693ms or 113 ticks
+[23Dec2024 21:10:14.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
+[23Dec2024 21:15:05.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Disconnected
+[23Dec2024 21:15:05.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game

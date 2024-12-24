@@ -6349,7 +6349,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "kelp": "2024-12-17 15:38:54 +0000"
+      "kelp": "2024-12-17 15:38:54 +0000",
+      "rice": "2024-12-24 16:58:30 +0000"
     },
     "done": false
   },
@@ -8678,6 +8679,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-24 16:45:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-12-24 16:58:30 +0000"
     },
     "done": true
   },

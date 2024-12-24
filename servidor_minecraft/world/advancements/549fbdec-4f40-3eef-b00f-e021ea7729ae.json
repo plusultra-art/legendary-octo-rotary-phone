@@ -729,6 +729,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2024-12-24 18:33:50 +0000",
       "minecraft:cow": "2024-12-15 00:35:09 +0000"
     },
     "done": false
@@ -6351,8 +6352,13 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-24 18:18:24 +0000",
+      "onion": "2024-12-24 18:28:14 +0000",
+      "tomato": "2024-12-24 18:28:26 +0000",
       "kelp": "2024-12-17 15:38:54 +0000",
       "rice": "2024-12-24 16:58:30 +0000",
+      "beetroot": "2024-12-24 18:27:01 +0000",
+      "potato": "2024-12-24 18:33:33 +0000",
+      "wheat": "2024-12-24 18:27:13 +0000",
       "carrot": "2024-12-24 17:11:35 +0000"
     },
     "done": false
@@ -8673,9 +8679,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2024-12-24 18:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-24 18:23:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bale": {
     "criteria": {
       "has_rice_panicle": "2024-12-24 17:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-24 18:23:11 +0000"
     },
     "done": true
   },
@@ -8691,15 +8715,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-24 18:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2024-12-24 17:59:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-24 18:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-24 16:45:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-24 18:23:46 +0000"
     },
     "done": true
   },
@@ -8775,6 +8817,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-24 18:23:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-24 17:17:52 +0000"
@@ -8787,9 +8835,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-12-24 18:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-24 17:19:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-24 18:27:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-24 18:27:44 +0000"
     },
     "done": true
   },
@@ -8799,9 +8865,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-24 18:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-24 17:36:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-12-24 18:35:33 +0000"
     },
     "done": true
   },

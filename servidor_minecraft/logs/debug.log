@@ -5797,3 +5797,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Dec2024 18:19:50.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 18:19:50.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 18:19:53.307] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-753, y=64, z=-498}
+[24Dec2024 18:20:29.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s got ripped apart by a Death Angel
+[24Dec2024 18:20:31.377] [Server thread/DEBUG] [twilightforest/]: Player sFACUsN6s (549fbdec-4f40-3eef-b00f-e021ea7729ae) respawned and received items held in storage
+[24Dec2024 18:20:31.601] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[24Dec2024 18:22:10.519] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2010ms or 40 ticks
+[24Dec2024 18:24:25.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/32341, l='ServerLevel[world]', x=-4332.49, y=68.00, z=-1826.16] died, message: 'Possessed Villager was slain by Death Angel Baby'
+[24Dec2024 18:24:25.358] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2133ms or 42 ticks
+[24Dec2024 18:24:50.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 18:24:50.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 18:27:01.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [A Seedy Place]
+[24Dec2024 18:29:50.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 18:29:50.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 18:32:42.936] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2074ms or 41 ticks
+[24Dec2024 18:32:52.041] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['sFACUsN6s'/54, l='ServerLevel[world]', x=-925.21, y=33.00, z=669.10]]
+[24Dec2024 18:34:50.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 18:34:50.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 18:39:50.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 18:39:50.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

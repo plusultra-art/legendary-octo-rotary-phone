@@ -5759,3 +5759,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Dec2024 17:37:44.131] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
 [24Dec2024 17:38:10.591] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2214ms or 44 ticks
 [24Dec2024 17:38:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [Voluntary Exile]
+[24Dec2024 17:39:48.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 17:39:48.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 17:42:17.351] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2132ms or 42 ticks
+[24Dec2024 17:43:35.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [The Parrots and the Bats]
+[24Dec2024 17:44:48.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 17:44:48.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 17:45:39.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [A Seedy Place]

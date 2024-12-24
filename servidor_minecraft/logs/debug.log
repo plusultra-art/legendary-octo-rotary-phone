@@ -5430,3 +5430,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Dec2024 16:45:06.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/151, l='ServerLevel[world]', x=-4302.04, y=64.00, z=-1873.08] died, message: 'Nitwit was slain by Death Angel'
 [24Dec2024 16:45:10.223] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2060ms or 41 ticks
 [24Dec2024 16:45:10.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/157, l='ServerLevel[world]', x=-4297.93, y=64.00, z=-1867.50] died, message: 'Villager was slain by Death Angel'
+[24Dec2024 16:49:46.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:49:46.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 16:53:54.261] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Dec2024 16:53:54.262] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[24Dec2024 16:53:54.285] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Dec2024 16:54:46.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 16:54:46.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

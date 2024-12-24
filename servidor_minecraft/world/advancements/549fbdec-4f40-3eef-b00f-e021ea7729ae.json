@@ -6186,7 +6186,8 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
-      "endofherobrine:chicken": "2024-12-17 01:56:27 +0000"
+      "endofherobrine:chicken": "2024-12-17 01:56:27 +0000",
+      "endofherobrine:villager": "2024-12-24 16:45:06 +0000"
     },
     "done": false
   },
@@ -8665,6 +8666,42 @@
   "bakery:recipes/dough": {
     "criteria": {
       "has_sugar": "2024-12-24 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-24 16:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-24 16:45:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 16:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-24 16:45:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-24 16:54:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-24 16:54:26 +0000"
     },
     "done": true
   },

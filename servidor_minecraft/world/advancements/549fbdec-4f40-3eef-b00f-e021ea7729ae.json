@@ -8690,6 +8690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 17:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-24 16:45:03 +0000"
@@ -8699,6 +8705,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-24 17:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-24 17:59:18 +0000"
     },
     "done": true
   },
@@ -8726,6 +8738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 17:59:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-24 17:34:26 +0000"
@@ -8744,6 +8762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 17:59:18 +0000"
+    },
+    "done": true
+  },
   "portablemobs:mastercelladvancement": {
     "criteria": {
       "mastercell": "2024-12-24 17:23:22 +0000"
@@ -8753,6 +8777,12 @@
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-24 17:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-24 17:59:18 +0000"
     },
     "done": true
   },

@@ -725,3 +725,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Dec2024 17:42:17.351] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2132ms or 42 ticks
 [24Dec2024 17:43:35.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [The Parrots and the Bats]
 [24Dec2024 17:45:39.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [A Seedy Place]
+[24Dec2024 17:51:03.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:03.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:03.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:03.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:03.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:03.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:03.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:04.028] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:51:04.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:53:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp has made the advancement [Would you Like to Know More?]

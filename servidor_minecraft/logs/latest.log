@@ -689,3 +689,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Dec2024 17:10:35.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [24Dec2024 17:17:20.331] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2202ms or 44 ticks
 [24Dec2024 17:18:09.357] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-4337, y=62, z=-1866}
+[24Dec2024 17:19:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [What a Deal!]
+[24Dec2024 17:22:53.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4347, y=65, z=-1894} BlockPos{x=-961, y=62, z=637}
+[24Dec2024 17:23:00.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-963, y=64, z=633} BlockPos{x=-963, y=62, z=634}
+[24Dec2024 17:23:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [Gotta Capture Them All!]
+[24Dec2024 17:24:46.376] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2178ms or 43 ticks
+[24Dec2024 17:24:52.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiesp[/127.44.197.58:59165] logged in with entity id 12470 at (-896.5, 41.03584062504456, 671.5)
+[24Dec2024 17:24:52.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp joined the game
+[24Dec2024 17:25:05.164] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[24Dec2024 17:25:11.724] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2054ms or 41 ticks
+[24Dec2024 17:25:55.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[24Dec2024 17:28:04.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[24Dec2024 17:28:19.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11979, l='ServerLevel[world]', x=-4400.73, y=63.00, z=-1879.80] died, message: 'Villager was shot by Pillager'

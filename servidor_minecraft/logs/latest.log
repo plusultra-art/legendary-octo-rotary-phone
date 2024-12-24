@@ -6469,3 +6469,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Dec2024 19:11:03.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Disconnected
 [24Dec2024 19:11:03.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game
 [24Dec2024 19:11:03.295] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 19:11:40.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiesp[/127.44.197.58:57033] logged in with entity id 49944 at (-934.5449840342308, 44.0, 671.2883441809478)
+[24Dec2024 19:11:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp joined the game
+[24Dec2024 19:12:01.746] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[24Dec2024 19:12:10.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Timed out
+[24Dec2024 19:12:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game
+[24Dec2024 19:12:41.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiesp[/127.44.197.58:45995] logged in with entity id 50165 at (-934.5449840342308, 44.0, 671.2883441809478)
+[24Dec2024 19:12:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp joined the game
+[24Dec2024 19:12:54.443] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[24Dec2024 19:13:41.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Timed out
+[24Dec2024 19:13:41.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game
+[24Dec2024 19:14:10.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sFACUsN6s lost connection: Disconnected
+[24Dec2024 19:14:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s left the game
+[24Dec2024 19:14:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 19:14:22.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 19:14:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 19:14:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 19:14:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 19:14:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24Dec2024 19:14:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 19:14:22.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[24Dec2024 19:14:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24Dec2024 19:14:22.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[24Dec2024 19:14:22.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 19:14:22.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 19:14:22.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24Dec2024 19:14:22.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 19:14:22.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[24Dec2024 19:14:22.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24Dec2024 19:14:22.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[24Dec2024 19:14:22.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 19:14:22.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 19:14:22.459] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Dec2024 19:14:22.460] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[24Dec2024 19:14:22.463] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[24Dec2024 19:14:22.474] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

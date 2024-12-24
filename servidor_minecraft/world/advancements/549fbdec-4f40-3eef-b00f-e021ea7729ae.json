@@ -6350,7 +6350,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "kelp": "2024-12-17 15:38:54 +0000",
-      "rice": "2024-12-24 16:58:30 +0000"
+      "rice": "2024-12-24 16:58:30 +0000",
+      "carrot": "2024-12-24 17:11:35 +0000"
     },
     "done": false
   },
@@ -8667,6 +8668,18 @@
   "bakery:recipes/dough": {
     "criteria": {
       "has_sugar": "2024-12-24 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-24 17:11:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-24 17:11:03 +0000"
     },
     "done": true
   },

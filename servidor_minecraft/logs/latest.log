@@ -676,3 +676,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [24Dec2024 16:45:10.223] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2060ms or 41 ticks
 [24Dec2024 16:45:10.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/157, l='ServerLevel[world]', x=-4297.93, y=64.00, z=-1867.50] died, message: 'Villager was slain by Death Angel'
 [24Dec2024 16:59:46.385] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2085ms or 41 ticks
+[24Dec2024 17:10:34.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:34.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:34.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:34.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:34.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:34.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:35.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:35.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:35.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:35.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:10:35.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Dec2024 17:17:20.331] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2202ms or 44 ticks
+[24Dec2024 17:18:09.357] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-4337, y=62, z=-1866}

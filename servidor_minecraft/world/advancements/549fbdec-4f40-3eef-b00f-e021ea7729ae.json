@@ -8344,6 +8344,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-23 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2024-12-23 23:35:32 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2024-12-23 23:35:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-23 23:47:56 +0000"
@@ -8377,12 +8395,6 @@
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-23 23:47:56 +0000"
-    },
-    "done": true
-  },
-  "exposure:adventure/moment_in_time": {
-    "criteria": {
-      "get_photograph": "2024-12-23 23:35:32 +0000"
     },
     "done": true
   },
@@ -8470,12 +8482,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-23 23:34:54 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-23 23:47:56 +0000"
@@ -8491,12 +8497,6 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-23 23:47:56 +0000"
-    },
-    "done": true
-  },
-  "exposure:recipes/tools/photograph_frame": {
-    "criteria": {
-      "has_photograph": "2024-12-23 23:35:32 +0000"
     },
     "done": true
   },
@@ -8560,12 +8560,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-23 23:52:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-23 23:47:56 +0000"
@@ -8620,12 +8614,6 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-23 23:50:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-23 23:47:56 +0000"
@@ -8641,6 +8629,42 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-23 23:47:56 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-23 23:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-23 23:52:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2024-12-24 00:09:22 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2024-12-24 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2024-12-24 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2024-12-24 00:09:52 +0000"
     },
     "done": true
   },

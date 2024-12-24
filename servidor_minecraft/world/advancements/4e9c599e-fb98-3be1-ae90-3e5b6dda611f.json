@@ -109,6 +109,7 @@
       "snowblossom_grove": "2024-12-15 03:14:08 +0000",
       "rocky_shrubland": "2024-12-15 04:24:54 +0000",
       "scrubland": "2024-12-19 01:04:13 +0000",
+      "fungal_jungle": "2024-12-23 22:25:13 +0000",
       "highland": "2024-12-18 20:59:52 +0000",
       "jade_cliffs": "2024-12-15 00:51:32 +0000",
       "clover_patch": "2024-12-15 00:50:53 +0000",
@@ -127,6 +128,7 @@
       "dead_forest": "2024-12-18 21:01:22 +0000",
       "volcano": "2024-12-18 17:46:33 +0000",
       "rocky_rainforest": "2024-12-19 01:12:55 +0000",
+      "volcanic_plains": "2024-12-23 22:28:36 +0000",
       "lavender_field": "2024-12-15 01:14:45 +0000",
       "pumpkin_patch": "2024-12-15 02:49:28 +0000",
       "grassland": "2024-12-15 04:22:03 +0000",
@@ -1333,6 +1335,7 @@
       "minecraft:sunflower_plains": "2024-12-15 02:28:28 +0000",
       "minecraft:bamboo_jungle": "2024-12-19 01:15:25 +0000",
       "minecraft:beach": "2024-12-18 18:54:49 +0000",
+      "minecraft:stony_peaks": "2024-12-23 23:02:14 +0000",
       "minecraft:river": "2024-12-15 03:11:56 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 21:19:02 +0000",
       "minecraft:stony_shore": "2024-12-15 01:25:32 +0000",
@@ -7177,15 +7180,21 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "umvuthana_raptor": "2024-12-19 01:06:02 +0000"
+      "has_any_ingredient": "2024-12-19 01:00:08 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/calcite_pillar_trim": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_calcite_pillar_trim": "2024-12-19 01:21:07 +0000"
+      "has_ink_sac": "2024-12-19 01:00:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-19 01:06:02 +0000"
     },
     "done": true
   },
@@ -7213,12 +7222,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2024-12-19 01:25:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-19 01:12:57 +0000"
@@ -7243,39 +7246,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-19 01:00:08 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2024-12-19 01:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-19 01:17:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-19 01:00:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-19 01:12:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2024-12-19 01:18:24 +0000"
     },
     "done": true
   },
@@ -7315,18 +7288,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2024-12-19 01:17:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-19 01:17:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-19 01:12:57 +0000"
@@ -7336,12 +7297,6 @@
   "handcrafted:recipes/misc/terracotta_wide_pot": {
     "criteria": {
       "has_terracotta_wide_pot": "2024-12-19 01:12:57 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/bamboo_chimes": {
-    "criteria": {
-      "has_planks": "2024-12-19 01:15:27 +0000"
     },
     "done": true
   },
@@ -7357,33 +7312,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-19 01:18:24 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_cobweb": "2024-12-19 01:22:16 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2024-12-19 01:22:16 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/terracotta_thick_pot": {
     "criteria": {
       "has_terracotta_thick_pot": "2024-12-19 01:12:57 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2024-12-19 01:22:16 +0000"
     },
     "done": true
   },
@@ -7393,21 +7324,27 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/calcite_corner_trim": {
+  "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
-      "has_calcite_corner_trim": "2024-12-19 01:21:07 +0000"
+      "has_terracotta": "2024-12-19 01:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-19 01:12:57 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2024-12-19 01:15:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-19 01:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-19 01:12:57 +0000"
     },
     "done": true
   },
@@ -7423,9 +7360,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_terracotta": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_terracotta": "2024-12-19 01:12:57 +0000"
+      "has_kelp": "2024-12-19 01:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-19 01:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-19 01:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-19 01:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-19 01:18:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2024-12-19 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2024-12-19 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-19 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-12-19 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-12-19 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-12-19 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-19 01:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-23 23:02:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-23 23:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-23 23:02:00 +0000"
     },
     "done": true
   },

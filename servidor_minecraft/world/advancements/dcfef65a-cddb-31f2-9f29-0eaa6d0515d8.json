@@ -6242,7 +6242,9 @@
     "criteria": {
       "cabbage": "2024-12-18 20:28:32 +0000",
       "onion": "2024-12-18 20:27:07 +0000",
-      "tomato": "2024-12-18 20:24:03 +0000"
+      "tomato": "2024-12-18 20:24:03 +0000",
+      "potato": "2024-12-23 23:42:20 +0000",
+      "carrot": "2024-12-23 23:40:33 +0000"
     },
     "done": false
   },
@@ -6911,6 +6913,18 @@
       "phantom": "2024-12-23 19:10:14 +0000"
     },
     "done": false
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-23 23:10:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-23 23:11:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

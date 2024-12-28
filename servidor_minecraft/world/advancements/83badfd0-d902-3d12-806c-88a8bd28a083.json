@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "clover_patch": "2024-12-16 16:32:46 +0000"
-    },
-    "done": true
-  },
   "bakery:main/root": {
     "criteria": {
       "seeds": "2024-12-16 16:32:45 +0000"
@@ -77,12 +71,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "clover_patch": "2024-12-16 16:32:46 +0000"
-    },
-    "done": false
-  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-16 16:32:45 +0000"
@@ -106,6 +94,18 @@
       "instant_granted": "2024-12-16 16:32:45 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "clover_patch": "2024-12-16 16:32:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "clover_patch": "2024-12-16 16:32:46 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

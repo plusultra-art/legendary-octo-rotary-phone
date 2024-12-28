@@ -6353,6 +6353,7 @@
     "criteria": {
       "cabbage": "2024-12-24 18:18:24 +0000",
       "onion": "2024-12-24 18:28:14 +0000",
+      "sweet_berries": "2024-12-28 01:19:35 +0000",
       "tomato": "2024-12-24 18:28:26 +0000",
       "kelp": "2024-12-17 15:38:54 +0000",
       "rice": "2024-12-24 16:58:30 +0000",
@@ -8883,9 +8884,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-28 01:15:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-12-28 00:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-28 01:15:34 +0000"
     },
     "done": true
   },

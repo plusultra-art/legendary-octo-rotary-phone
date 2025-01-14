@@ -126,6 +126,7 @@
       "snowy_coniferous_forest": "2024-12-19 19:24:52 +0000",
       "snowy_fir_clearing": "2024-12-19 19:26:37 +0000",
       "tundra": "2024-12-19 19:08:57 +0000",
+      "glowing_grotto": "2025-01-14 16:02:30 +0000",
       "snowy_maple_woods": "2024-12-19 19:04:21 +0000",
       "ominous_woods": "2024-12-17 15:59:55 +0000"
     },
@@ -8932,6 +8933,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-01-14 16:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-14 16:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-14 16:01:40 +0000"
@@ -8941,6 +8954,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-01-14 16:01:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-01-14 16:05:53 +0000"
     },
     "done": true
   },

@@ -683,3 +683,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [14Jan2025 15:47:30.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [14Jan2025 15:50:00.308] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2097ms or 41 ticks
 [14Jan2025 15:55:44.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[14Jan2025 16:05:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has made the advancement [Deceived Hopes]
+[14Jan2025 16:05:54.708] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-656, y=71, z=518}
+[14Jan2025 16:08:20.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s has reached the goal [Arachnophobe's Nightmare]
+[14Jan2025 16:11:34.496] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2357ms or 47 ticks
+[14Jan2025 16:14:00.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sFACUsN6s lost connection: Disconnected
+[14Jan2025 16:14:00.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s left the game
+[14Jan2025 16:14:06.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jan2025 16:14:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jan2025 16:14:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jan2025 16:14:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jan2025 16:14:06.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jan2025 16:14:06.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jan2025 16:14:06.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[14Jan2025 16:14:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[14Jan2025 16:14:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[14Jan2025 16:14:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[14Jan2025 16:14:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jan2025 16:14:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jan2025 16:14:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jan2025 16:14:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[14Jan2025 16:14:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[14Jan2025 16:14:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[14Jan2025 16:14:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[14Jan2025 16:14:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jan2025 16:14:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Jan2025 16:14:06.726] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Jan2025 16:14:06.727] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14Jan2025 16:14:06.729] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[14Jan2025 16:14:06.732] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -8738,6 +8738,18 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_dance_floor": "2025-01-30 23:36:59 +0000"
+    },
+    "done": false
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-30 22:40:55 +0000"
@@ -8750,9 +8762,29 @@
     },
     "done": true
   },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2025-01-30 22:42:21 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2025-01-30 23:33:02 +0000",
+      "hive_wall": "2025-01-30 23:34:07 +0000",
+      "pollinated_fields": "2025-01-30 23:34:10 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-01-30 23:32:59 +0000"
     },
     "done": true
   },
@@ -8774,6 +8806,12 @@
     },
     "done": true
   },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-30 22:40:55 +0000"
@@ -8791,6 +8829,12 @@
       "requirement": "2025-01-30 22:42:19 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_honey_bee_rat_faced_boy": "2025-01-30 23:37:13 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {

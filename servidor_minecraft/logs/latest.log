@@ -714,3 +714,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [30Jan2025 23:15:45.504] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
 [30Jan2025 23:18:36.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Splintering II]
 [30Jan2025 23:19:18.031] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2088, y=62, z=-1059}
+[30Jan2025 23:28:25.843] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2047ms or 40 ticks
+[30Jan2025 23:30:46.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[30Jan2025 23:31:48.081] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1121, y=101, z=-1564}
+[30Jan2025 23:32:57.351] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2121ms or 42 ticks
+[30Jan2025 23:32:59.479] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[30Jan2025 23:32:59.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3433ms or 68 ticks behind
+[30Jan2025 23:32:59.935] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[30Jan2025 23:33:15.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! -5.1484369783434545,2.351674970214333,8.817993183545013
+[30Jan2025 23:33:15.112] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2544ms or 50 ticks

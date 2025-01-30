@@ -123,6 +123,8 @@
       "mediterranean_forest": "2024-12-19 01:21:03 +0000",
       "coniferous_forest": "2024-12-15 17:53:45 +0000",
       "spider_nest": "2024-12-18 21:43:44 +0000",
+      "dryland": "2025-01-30 22:21:04 +0000",
+      "lush_desert": "2025-01-30 22:20:58 +0000",
       "redwood_forest": "2024-12-15 00:01:55 +0000",
       "seasonal_forest": "2024-12-16 17:02:19 +0000",
       "auroral_garden": "2024-12-15 01:58:44 +0000",
@@ -1644,6 +1646,7 @@
       "minecraft:mushroom_fields": "2024-12-15 04:06:12 +0000",
       "minecraft:taiga": "2024-12-15 00:57:21 +0000",
       "minecraft:deep_ocean": "2024-12-15 04:23:44 +0000",
+      "minecraft:eroded_badlands": "2025-01-30 22:21:06 +0000",
       "minecraft:frozen_river": "2024-12-15 01:10:02 +0000",
       "minecraft:sunflower_plains": "2024-12-15 00:49:00 +0000",
       "minecraft:birch_forest": "2024-12-15 00:02:30 +0000",
@@ -1668,6 +1671,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-17 01:00:40 +0000",
       "minecraft:deep_dark": "2024-12-18 21:47:19 +0000",
       "minecraft:meadow": "2024-12-15 01:13:01 +0000",
+      "minecraft:savanna": "2025-01-30 22:21:32 +0000",
       "minecraft:plains": "2024-12-15 00:34:18 +0000"
     },
     "done": false
@@ -9868,6 +9872,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-19 01:02:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thin_pot": {
     "criteria": {
       "has_terracotta_thin_pot": "2024-12-19 01:12:58 +0000"
@@ -9904,12 +9914,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2024-12-19 01:16:15 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta_medium_pot": "2024-12-19 01:12:58 +0000"
@@ -9922,45 +9926,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 01:16:13 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_naga": {
-    "criteria": {
-      "naga": "2024-12-19 01:02:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 01:16:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2024-12-19 01:16:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-19 01:16:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-19 01:12:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2024-12-19 01:16:15 +0000"
     },
     "done": true
   },
@@ -9973,12 +9941,6 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-19 01:12:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2024-12-19 01:16:15 +0000"
     },
     "done": true
   },
@@ -10018,12 +9980,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-19 01:16:15 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/terracotta_bowl": {
     "criteria": {
       "has_terracotta_bowl": "2024-12-19 01:12:58 +0000"
@@ -10033,12 +9989,6 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-19 01:12:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_mahogany_planks": "2024-12-19 01:16:15 +0000"
     },
     "done": true
   },
@@ -10054,6 +10004,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-19 01:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-19 01:12:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 01:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2024-12-19 01:16:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-19 01:16:15 +0000"
@@ -10066,15 +10082,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
-      "has_terracotta": "2024-12-19 01:12:58 +0000"
+      "has_item": "2025-01-30 22:23:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_terracotta": {
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
-      "has_terracotta": "2024-12-19 01:12:58 +0000"
+      "has_item": "2025-01-30 22:23:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-30 22:23:26 +0000"
     },
     "done": true
   },

@@ -702,3 +702,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [30Jan2025 22:40:48.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 [30Jan2025 22:41:26.182] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1461, y=74, z=-1376}
 [30Jan2025 22:43:05.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[30Jan2025 22:45:32.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/9557, l='ServerLevel[world]', x=-1448.78, y=64.20, z=-1363.88] died, message: 'Possessed Villager was slain by emizz'
+[30Jan2025 22:47:39.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/11805, l='ServerLevel[world]', x=-1480.49, y=86.00, z=-1356.71] died, message: 'Possessed Villager was shot by Pillager'
+[30Jan2025 22:51:15.881] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1487, y=62, z=-1401}

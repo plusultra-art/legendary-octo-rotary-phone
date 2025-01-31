@@ -34,3 +34,7 @@
 [31Jan2025 01:12:29.562] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
 [31Jan2025 01:12:45.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
 [31Jan2025 01:12:45.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[31Jan2025 01:17:52.481] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2017, y=62, z=-994}
+[31Jan2025 01:18:51.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[31Jan2025 01:19:23.290] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2072ms or 41 ticks
+[31Jan2025 01:21:22.531] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2001, y=62, z=-984}

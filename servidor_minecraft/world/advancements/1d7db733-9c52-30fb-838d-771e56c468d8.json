@@ -3580,6 +3580,7 @@
   "endofherobrine:story/exorcist": {
     "criteria": {
       "endofherobrine:chicken": "2024-12-16 00:12:59 +0000",
+      "endofherobrine:silverfish": "2025-01-31 04:25:11 +0000",
       "endofherobrine:villager": "2024-12-15 00:39:36 +0000",
       "endofherobrine:sheep": "2024-12-16 01:32:39 +0000",
       "endofherobrine:pigman": "2024-12-16 00:36:27 +0000"
@@ -10392,6 +10393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-31 04:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-31 04:04:30 +0000"
@@ -10437,6 +10444,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-01-31 04:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-31 04:29:06 +0000"
     },
     "done": true
   },

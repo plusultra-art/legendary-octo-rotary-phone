@@ -65,3 +65,5 @@
 [31Jan2025 03:40:51.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
 [31Jan2025 03:41:06.497] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
 [31Jan2025 03:42:48.681] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2000, y=62, z=-972}
+[31Jan2025 03:52:07.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[31Jan2025 03:54:23.285] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2191ms or 43 ticks

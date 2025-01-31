@@ -6194,3 +6194,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [31Jan2025 03:26:03.210] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
 [31Jan2025 03:27:17.618] [Server thread/DEBUG] [twilightforest/]: Player emizz (1d7db733-9c52-30fb-838d-771e56c468d8) respawned and received items held in storage
 [31Jan2025 03:27:17.804] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 03:29:23.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 03:29:23.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 03:34:23.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 03:34:23.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 03:37:29.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
+[31Jan2025 03:37:29.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game

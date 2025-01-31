@@ -59,3 +59,5 @@
 [31Jan2025 03:26:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz drowned
 [31Jan2025 03:26:03.210] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
 [31Jan2025 03:27:17.804] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 03:37:29.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
+[31Jan2025 03:37:29.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game

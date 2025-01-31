@@ -8738,11 +8738,23 @@
     },
     "done": true
   },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-01-31 00:02:25 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_dance_floor": "2025-01-30 23:36:59 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-01-30 23:46:17 +0000"
+    },
+    "done": true
   },
   "bakery:recipes/sweet_dough": {
     "criteria": {
@@ -8774,9 +8786,16 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-01-30 23:46:42 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
       "sugar_water_floor": "2025-01-30 23:33:02 +0000",
+      "hive_pillar": "2025-01-30 23:59:04 +0000",
       "hive_wall": "2025-01-30 23:34:07 +0000",
       "pollinated_fields": "2025-01-30 23:34:10 +0000"
     },
@@ -8794,6 +8813,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-30 23:49:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-01-30 22:43:24 +0000"
@@ -8803,6 +8828,18 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-30 22:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-30 23:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-30 23:49:19 +0000"
     },
     "done": true
   },

@@ -5780,3 +5780,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [30Jan2025 23:39:18.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 23:44:18.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 23:44:18.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 23:46:43.406] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[30Jan2025 23:46:50.320] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2341ms or 46 ticks
+[30Jan2025 23:46:56.383] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[30Jan2025 23:47:24.781] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1166, y=103, z=-1566}
+[30Jan2025 23:47:44.400] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2132ms or 42 ticks
+[30Jan2025 23:49:18.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 23:49:18.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 23:51:28.511] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2231ms or 44 ticks
+[30Jan2025 23:52:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> dame 5
+[30Jan2025 23:52:55.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> se desconecto droid
+[30Jan2025 23:54:18.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 23:54:18.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 23:55:30.782] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2086ms or 41 ticks
+[30Jan2025 23:55:31.097] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[30Jan2025 23:55:33.880] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[30Jan2025 23:59:18.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 23:59:18.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 00:04:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [The Gardener and the Bees]
+[31Jan2025 00:04:18.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 00:04:18.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

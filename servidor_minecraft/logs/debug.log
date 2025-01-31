@@ -7235,3 +7235,16 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [31Jan2025 21:47:09.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jan2025 21:47:09.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Jan2025 21:47:36.442] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-8054, y=69, z=-1561}
+[31Jan2025 21:52:09.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 21:52:09.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 21:57:09.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 21:57:09.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 21:57:26.942] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-8254, y=76, z=-1501}
+[31Jan2025 22:01:30.392] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-8224, y=78, z=-1492}
+[31Jan2025 22:01:51.675] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3444ms or 68 ticks
+[31Jan2025 22:01:56.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[31Jan2025 22:01:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[31Jan2025 22:02:09.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 22:02:09.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 22:07:09.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 22:07:09.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

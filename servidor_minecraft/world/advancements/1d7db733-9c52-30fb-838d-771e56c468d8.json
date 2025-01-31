@@ -11530,5 +11530,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-31 18:41:21 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-01-31 18:39:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

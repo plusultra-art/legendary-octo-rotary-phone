@@ -7082,3 +7082,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [31Jan2025 06:37:30.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! -10.33734125028468,1.1111106872558594,127.04136521544729
 [31Jan2025 06:39:26.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jan2025 06:39:26.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 06:44:26.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 06:44:26.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 06:44:26.805] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2162ms or 43 ticks
+[31Jan2025 06:46:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Anonymity -Wood-]
+[31Jan2025 06:46:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Arts -Combo A-              ]
+[31Jan2025 06:46:22.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Arts -Aerial Rave A-       ]
+[31Jan2025 06:46:23.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Arts -Aerial Rave B-       ]
+[31Jan2025 06:48:39.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Anonymity -Bamboo Light-]
+[31Jan2025 06:49:26.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 06:49:26.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 06:50:21.131] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2019, y=62, z=-1004}

@@ -11024,5 +11024,97 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/slashblade_tofu_metal": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000",
+      "has_the_recipe": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2025-01-31 06:48:39 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2025-01-31 06:48:39 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-01-31 06:46:12 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-01-31 06:46:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-01-31 06:46:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000",
+      "has_the_recipe": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_wood": {
+    "criteria": {
+      "has_wooden_sword": "2025-01-31 06:45:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/slashblade_tofu_ishi": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1708,3 +1708,9 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [31Jan2025 20:12:10.066] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2111ms or 42 ticks
 [31Jan2025 20:12:49.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
 [31Jan2025 20:12:49.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[31Jan2025 20:16:58.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:45871] logged in with entity id 25544 at (-2318.300000011921, 63.0, -911.3000000119209)
+[31Jan2025 20:16:58.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[31Jan2025 20:17:11.661] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 20:17:34.442] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[31Jan2025 20:21:31.142] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2018, y=62, z=-995}
+[31Jan2025 20:22:10.042] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2015ms or 40 ticks

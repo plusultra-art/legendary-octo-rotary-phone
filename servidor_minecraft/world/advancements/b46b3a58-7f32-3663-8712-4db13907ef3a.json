@@ -8738,6 +8738,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-31 00:22:40 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
     "criteria": {
       "strong_hidden": "2025-01-31 00:02:25 +0000"
@@ -8746,6 +8752,8 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
+      "in_hanging_garden": "2025-01-31 00:05:39 +0000",
+      "in_pollinated_stream": "2025-01-31 00:09:27 +0000",
       "in_dance_floor": "2025-01-30 23:36:59 +0000"
     },
     "done": false
@@ -8794,6 +8802,7 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "pollinated_pillar": "2025-01-31 00:05:09 +0000",
       "sugar_water_floor": "2025-01-30 23:33:02 +0000",
       "hive_pillar": "2025-01-30 23:59:04 +0000",
       "hive_wall": "2025-01-30 23:34:07 +0000",
@@ -8804,6 +8813,12 @@
   "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
     "criteria": {
       "teleport_to_bumblezone_pearl": "2025-01-30 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-31 00:22:40 +0000"
     },
     "done": true
   },
@@ -8831,6 +8846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-31 00:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-01-30 23:49:19 +0000"
@@ -8846,6 +8867,12 @@
   "bakery:recipes/dough": {
     "criteria": {
       "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2025-01-31 00:05:39 +0000"
     },
     "done": true
   },
@@ -8882,6 +8909,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-01-30 22:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-01-31 00:12:37 +0000"
     },
     "done": true
   },

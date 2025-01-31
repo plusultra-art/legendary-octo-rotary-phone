@@ -118,3 +118,7 @@
 [31Jan2025 06:29:56.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 59.83198397616252,1.1111106872558594,-59.012701901848004
 [31Jan2025 06:30:52.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
 [31Jan2025 06:30:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[31Jan2025 06:31:51.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:35099] logged in with entity id 138302 at (-2041.513542316854, 69.0, -1018.1240254305558)
+[31Jan2025 06:31:51.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[31Jan2025 06:32:05.859] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 06:37:30.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! -10.33734125028468,1.1111106872558594,127.04136521544729

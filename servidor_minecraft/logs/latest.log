@@ -76,3 +76,14 @@
 [31Jan2025 04:43:19.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
 [31Jan2025 04:57:40.181] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1997, y=62, z=-986}
 [31Jan2025 05:04:26.417] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2089ms or 41 ticks
+[31Jan2025 05:13:10.231] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2056, y=62, z=-1127}
+[31Jan2025 05:14:05.152] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 05:14:05.202] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3858ms or 77 ticks
+[31Jan2025 05:14:05.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3521ms or 70 ticks behind
+[31Jan2025 05:14:59.660] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 05:16:59.781] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2010, y=62, z=-994}
+[31Jan2025 05:17:07.856] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2472ms or 49 ticks
+[31Jan2025 05:18:06.846] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/119733, l='ServerLevel[world]', x=-1390.32, y=69.23, z=-1376.41] died, message: 'Shepherd was shot by Pillager'
+[31Jan2025 05:19:26.789] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[31Jan2025 05:19:54.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/119731, l='ServerLevel[world]', x=-1418.35, y=63.00, z=-1355.95] died, message: 'Shepherd was shot by Pillager'
+[31Jan2025 05:29:07.131] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1995, y=66, z=-1069}

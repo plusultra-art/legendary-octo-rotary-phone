@@ -1674,3 +1674,9 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [31Jan2025 18:45:15.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
 [31Jan2025 18:45:15.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
 [31Jan2025 18:45:15.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44998ms or 899 ticks behind
+[31Jan2025 18:45:24.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:51549] logged in with entity id 2645 at (-2014.4679445047102, 62.88888931274414, -1001.1593324479568)
+[31Jan2025 18:45:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[31Jan2025 18:45:38.875] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 18:45:43.314] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2155ms or 43 ticks
+[31Jan2025 18:47:57.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Arts -Aerial Cleave-       ]
+[31Jan2025 18:47:57.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Arts -Rapid Slash-         ]

@@ -1690,3 +1690,8 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [31Jan2025 19:10:14.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Abilities -Enemy Step-           ]
 [31Jan2025 19:10:18.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved wrongly!
 [31Jan2025 19:10:45.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/8891, l='ServerLevel[world]', x=-1510.37, y=63.00, z=-1403.02] died, message: 'Possessed Villager was slain by Zombie'
+[31Jan2025 19:20:07.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Soul Ingot]
+[31Jan2025 19:22:58.850] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2451ms or 49 ticks
+[31Jan2025 19:23:37.742] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1486, y=70, z=-1316}
+[31Jan2025 19:23:55.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/12172, l='ServerLevel[world]', x=-1474.36, y=73.00, z=-1386.43] died, message: 'Nitwit was slain by Zombie'
+[31Jan2025 19:24:37.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already

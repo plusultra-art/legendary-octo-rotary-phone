@@ -6729,3 +6729,12 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [31Jan2025 19:10:45.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/8891, l='ServerLevel[world]', x=-1510.37, y=63.00, z=-1403.02] died, message: 'Possessed Villager was slain by Zombie'
 [31Jan2025 19:12:09.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Jan2025 19:12:09.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 19:17:09.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 19:17:09.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 19:20:07.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Soul Ingot]
+[31Jan2025 19:22:09.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 19:22:09.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 19:22:58.850] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2451ms or 49 ticks
+[31Jan2025 19:23:37.742] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1486, y=70, z=-1316}
+[31Jan2025 19:23:55.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/12172, l='ServerLevel[world]', x=-1474.36, y=73.00, z=-1386.43] died, message: 'Nitwit was slain by Zombie'
+[31Jan2025 19:24:37.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already

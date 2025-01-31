@@ -11549,9 +11549,21 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/sabigatana": {
+    "criteria": {
+      "has_proudsoul_ingot": "2025-01-31 19:20:07 +0000"
+    },
+    "done": true
+  },
   "slashblade:abilities/kick_jump": {
     "criteria": {
       "customtrigger": "2025-01-31 19:02:50 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_ingot": {
+    "criteria": {
+      "BrokenBlade": "2025-01-31 19:20:07 +0000"
     },
     "done": true
   },
@@ -11564,6 +11576,12 @@
   "slashblade:arts/aerial_cleave": {
     "criteria": {
       "customtrigger": "2025-01-31 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/blue": {
+    "criteria": {
+      "has_proudsoul_ingot": "2025-01-31 19:20:07 +0000"
     },
     "done": true
   },

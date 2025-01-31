@@ -51,3 +51,4 @@
 [31Jan2025 02:27:01.481] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2001, y=62, z=-993}
 [31Jan2025 02:27:07.249] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
 [31Jan2025 02:29:23.288] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2141ms or 42 ticks
+[31Jan2025 02:42:31.531] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2015, y=82, z=-969}

@@ -20,3 +20,17 @@
 [31Jan2025 00:48:34.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Lost in the Cells]
 [31Jan2025 00:49:40.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> -1999 -2352
 [31Jan2025 00:51:51.176] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2047ms or 40 ticks
+[31Jan2025 00:56:24.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Lost in the Cells]
+[31Jan2025 00:59:06.782] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3216ms or 64 ticks
+[31Jan2025 00:59:06.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[31Jan2025 01:02:24.968] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2941ms or 58 ticks
+[31Jan2025 01:03:40.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved wrongly!
+[31Jan2025 01:04:23.831] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3004ms or 60 ticks
+[31Jan2025 01:07:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has completed the challenge [The Bee Warrior Rises!]
+[31Jan2025 01:09:27.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has completed the challenge [The Bee Warrior Rises!]
+[31Jan2025 01:09:33.817] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2157ms or 43 ticks
+[31Jan2025 01:12:13.128] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2361ms or 47 ticks
+[31Jan2025 01:12:13.382] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 01:12:29.562] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[31Jan2025 01:12:45.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[31Jan2025 01:12:45.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game

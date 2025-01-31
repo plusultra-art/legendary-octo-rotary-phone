@@ -43,3 +43,10 @@
 [31Jan2025 01:58:42.681] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2010, y=62, z=-989}
 [31Jan2025 02:04:23.282] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2119ms or 42 ticks
 [31Jan2025 02:08:18.582] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[31Jan2025 02:26:03.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[31Jan2025 02:26:03.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[31Jan2025 02:26:03.584] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jan2025 02:26:52.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:34115] logged in with entity id 81640 at (-2047.0713879696384, 69.0, -1007.387654582131)
+[31Jan2025 02:26:52.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[31Jan2025 02:27:01.481] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2001, y=62, z=-993}
+[31Jan2025 02:27:07.249] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.

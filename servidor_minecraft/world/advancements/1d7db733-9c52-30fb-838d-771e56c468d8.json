@@ -10157,6 +10157,12 @@
     },
     "done": true
   },
+  "the_bumblezone:armor/honey_bee_leggings_pollen_removal": {
+    "criteria": {
+      "honey_bee_leggings_pollen_removal": "2025-01-31 02:22:34 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
     "criteria": {
       "consume_honey_crystal_shards": "2025-01-30 23:55:59 +0000"
@@ -10275,6 +10281,12 @@
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2025-01-31 00:12:25 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/bumble_bee_chestplate_max_flight": {
+    "criteria": {
+      "bumble_bee_chestplate_max_flight": "2025-01-31 02:22:37 +0000"
     },
     "done": true
   },

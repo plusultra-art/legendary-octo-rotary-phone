@@ -7,3 +7,10 @@
 [31Jan2025 00:19:29.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved wrongly!
 [31Jan2025 00:21:51.666] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2206ms or 44 ticks
 [31Jan2025 00:21:54.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[31Jan2025 00:28:46.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz fell from a high place
+[31Jan2025 00:28:50.224] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2096ms or 41 ticks
+[31Jan2025 00:28:50.536] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 00:28:51.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[31Jan2025 00:29:30.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported emizz to niley
+[31Jan2025 00:29:31.856] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 00:29:31.888] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2058ms or 41 ticks

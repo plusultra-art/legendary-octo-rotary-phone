@@ -10159,6 +10159,7 @@
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
       "pollinated_pillar": "2025-01-31 00:03:19 +0000",
+      "crystal_canyon": "2025-01-31 00:31:04 +0000",
       "sugar_water_floor": "2025-01-30 23:33:02 +0000",
       "hive_pillar": "2025-01-30 23:58:47 +0000",
       "hive_wall": "2025-01-30 23:33:11 +0000",
@@ -10201,6 +10202,25 @@
       "has_honeycomb": "2025-01-31 00:11:10 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-01-31 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/cystal_cannon_full": {
+    "criteria": {
+      "crystal_cannon_full": "2025-01-31 00:33:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_2": "2025-01-31 00:32:29 +0000",
+      "carve_wax_3": "2025-01-31 00:32:29 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/trade": {
     "criteria": {

@@ -11549,6 +11549,12 @@
     },
     "done": true
   },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-01-31 19:26:13 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/sabigatana": {
     "criteria": {
       "has_proudsoul_ingot": "2025-01-31 19:20:07 +0000"

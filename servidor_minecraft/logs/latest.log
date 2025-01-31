@@ -72,3 +72,5 @@
 [31Jan2025 04:12:52.031] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1985, y=62, z=-989}
 [31Jan2025 04:15:56.981] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2001, y=63, z=-1093}
 [31Jan2025 04:28:23.081] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2230ms or 44 ticks
+[31Jan2025 04:39:37.081] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1992, y=62, z=-1008}
+[31Jan2025 04:43:19.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already

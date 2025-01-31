@@ -55,3 +55,7 @@
 [31Jan2025 02:58:14.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
 [31Jan2025 02:59:23.289] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2171ms or 43 ticks
 [31Jan2025 03:07:31.881] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2025, y=63, z=-972}
+[31Jan2025 03:25:35.431] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2022, y=62, z=-1020}
+[31Jan2025 03:26:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz drowned
+[31Jan2025 03:26:03.210] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
+[31Jan2025 03:27:17.804] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.

@@ -1680,3 +1680,8 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [31Jan2025 18:45:43.314] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2155ms or 43 ticks
 [31Jan2025 18:47:57.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Arts -Aerial Cleave-       ]
 [31Jan2025 18:47:57.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Blade Arts -Rapid Slash-         ]
+[31Jan2025 18:55:33.742] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2044, y=78, z=-1019}
+[31Jan2025 19:02:40.290] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2142ms or 42 ticks
+[31Jan2025 19:02:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Abilities -Kick Jump-            ]
+[31Jan2025 19:03:57.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/6536, l='ServerLevel[world]', x=-1413.39, y=64.00, z=-1366.36] died, message: 'Scribe was shot by Pillager'
+[31Jan2025 19:05:03.792] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1428, y=70, z=-1445}

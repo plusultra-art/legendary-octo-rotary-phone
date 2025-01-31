@@ -87,3 +87,22 @@
 [31Jan2025 05:19:26.789] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
 [31Jan2025 05:19:54.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/119731, l='ServerLevel[world]', x=-1418.35, y=63.00, z=-1355.95] died, message: 'Shepherd was shot by Pillager'
 [31Jan2025 05:29:07.131] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-1995, y=66, z=-1069}
+[31Jan2025 05:33:41.702] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2104ms or 42 ticks
+[31Jan2025 05:34:21.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/123783, l='ServerLevel[world]', x=-1449.43, y=64.50, z=-1363.82] died, message: 'Possessed Villager was shot by Pillager'
+[31Jan2025 05:34:33.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[31Jan2025 05:35:26.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/123462, l='ServerLevel[world]', x=-1458.33, y=64.00, z=-1362.36] died, message: 'Possessed Villager was shot by Pillager'
+[31Jan2025 05:37:04.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! -4.806311593492865,0.0,9.003395009475298
+[31Jan2025 05:37:36.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1688, y=73, z=-1364} BlockPos{x=-1688, y=71, z=-1365}
+[31Jan2025 05:37:36.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1688, y=73, z=-1364} BlockPos{x=-1688, y=71, z=-1365}
+[31Jan2025 05:37:36.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1688, y=73, z=-1364} BlockPos{x=-1688, y=71, z=-1365}
+[31Jan2025 05:38:01.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 2.0797856926826626,3.9986640208878583,-9.652107557214094
+[31Jan2025 05:38:33.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1703, y=121, z=-1488} BlockPos{x=-1704, y=120, z=-1491}
+[31Jan2025 05:38:33.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1703, y=121, z=-1488} BlockPos{x=-1704, y=120, z=-1491}
+[31Jan2025 05:38:33.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1703, y=121, z=-1488} BlockPos{x=-1704, y=120, z=-1491}
+[31Jan2025 05:38:33.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1703, y=121, z=-1488} BlockPos{x=-1704, y=120, z=-1491}
+[31Jan2025 05:44:03.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
+[31Jan2025 05:44:03.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[31Jan2025 05:46:18.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:35741] logged in with entity id 127995 at (-2047.699999988079, 63.0, -1011.3000000119209)
+[31Jan2025 05:46:18.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[31Jan2025 05:46:34.611] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 05:49:26.914] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2109, y=62, z=-1054}

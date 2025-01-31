@@ -8753,6 +8753,7 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_hanging_garden": "2025-01-31 00:05:39 +0000",
+      "in_honey_cave_room": "2025-01-31 00:52:14 +0000",
       "in_pollinated_stream": "2025-01-31 00:09:27 +0000",
       "in_dance_floor": "2025-01-30 23:36:59 +0000"
     },
@@ -8767,6 +8768,12 @@
   "bakery:recipes/sweet_dough": {
     "criteria": {
       "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2025-01-31 00:37:41 +0000"
     },
     "done": true
   },
@@ -8865,9 +8872,21 @@
     },
     "done": true
   },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_2": "2025-01-31 00:38:12 +0000"
+    },
+    "done": false
+  },
   "bakery:recipes/dough": {
     "criteria": {
       "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-01-31 00:41:52 +0000"
     },
     "done": true
   },
@@ -8910,6 +8929,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-01-30 22:43:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2025-01-31 00:36:14 +0000"
     },
     "done": true
   },

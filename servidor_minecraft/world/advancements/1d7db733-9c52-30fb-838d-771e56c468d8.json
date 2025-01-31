@@ -11543,6 +11543,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-01-31 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/yamato_fix": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-01-31 19:54:09 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade": {
+    "criteria": {
+      "has_slashblade_white": "2025-01-31 19:35:21 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/rapid_slash": {
     "criteria": {
       "customtrigger": "2025-01-31 18:47:57 +0000"
@@ -11555,9 +11573,27 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/tboen": {
+    "criteria": {
+      "has_slashblade_white": "2025-01-31 19:35:21 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_crystal": {
+    "criteria": {
+      "BrokenBlade": "2025-01-31 19:54:41 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/sabigatana": {
     "criteria": {
       "has_proudsoul_ingot": "2025-01-31 19:20:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/doutanuki": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-01-31 19:54:09 +0000"
     },
     "done": true
   },
@@ -11573,9 +11609,33 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-01-31 19:47:36 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_sphere": {
+    "criteria": {
+      "BrokenBlade": "2025-01-31 19:54:09 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_white": {
+    "criteria": {
+      "crafting": "2025-01-31 19:35:21 +0000"
+    },
+    "done": true
+  },
   "slashblade:abilities/enemy_step": {
     "criteria": {
       "customtrigger": "2025-01-31 19:10:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-01-31 20:07:23 +0000"
     },
     "done": true
   },
@@ -11588,6 +11648,12 @@
   "slashblade_addon:recipes/combat/blue": {
     "criteria": {
       "has_proudsoul_ingot": "2025-01-31 19:20:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-01-31 19:54:09 +0000"
     },
     "done": true
   },

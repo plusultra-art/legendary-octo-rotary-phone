@@ -61,3 +61,7 @@
 [31Jan2025 03:27:17.804] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
 [31Jan2025 03:37:29.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
 [31Jan2025 03:37:29.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[31Jan2025 03:40:51.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:44075] logged in with entity id 97586 at (-2024.699999988079, 64.0, -966.3000000119209)
+[31Jan2025 03:40:51.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[31Jan2025 03:41:06.497] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[31Jan2025 03:42:48.681] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2000, y=62, z=-972}

@@ -11024,6 +11024,98 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_wood": {
+    "criteria": {
+      "has_wooden_sword": "2025-01-31 06:45:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/slashblade_tofu_metal": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000",
+      "has_the_recipe": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000",
+      "has_the_recipe": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/slashblade_tofu_ishi": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-01-31 06:46:12 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-01-31 06:46:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-01-31 06:46:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2025-01-31 06:48:39 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2025-01-31 06:48:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
@@ -11036,46 +11128,15 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/fox_black": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-01-31 06:51:56 +0000"
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/slashblade_tofu_metal": {
-    "criteria": {
-      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_bamboo": {
-    "criteria": {
-      "has_slashblade_wood": "2025-01-31 06:46:04 +0000",
-      "has_the_recipe": "2025-01-31 06:46:04 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_bamboo": {
-    "criteria": {
-      "crafting": "2025-01-31 06:48:39 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_diamond": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
     },
     "done": true
   },
@@ -11103,12 +11164,6 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/rodai_golden": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_stove": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
@@ -11124,12 +11179,6 @@
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/orotiagito_sealed": {
-    "criteria": {
-      "has_proudsoul": "2025-01-31 06:46:04 +0000"
     },
     "done": true
   },
@@ -11154,12 +11203,6 @@
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/katana": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
     },
     "done": true
   },
@@ -11199,12 +11242,6 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/rodai_wooden": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
@@ -11226,18 +11263,6 @@
   "refurbished_furniture:recipes/misc/constructing/black_toilet": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_silverbamboo": {
-    "criteria": {
-      "has_slashblade_bamboo": "2025-01-31 06:48:39 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_iron": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
     },
     "done": true
   },
@@ -11265,18 +11290,6 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/agito": {
-    "criteria": {
-      "has_proudsoul": "2025-01-31 06:46:04 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/tachi": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-01-31 06:51:56 +0000"
@@ -11289,24 +11302,6 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/rodai_stone": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/ruby": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_silverbamboo": {
-    "criteria": {
-      "crafting": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
@@ -11316,12 +11311,6 @@
   "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
     "criteria": {
       "has_black_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_a": {
-    "criteria": {
-      "customtrigger": "2025-01-31 06:46:12 +0000"
     },
     "done": true
   },
@@ -11367,12 +11356,6 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/tagayasan": {
-    "criteria": {
-      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-31 06:51:56 +0000"
@@ -11397,28 +11380,9 @@
     },
     "done": true
   },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2025-01-31 06:46:23 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2025-01-31 06:46:22 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_white": {
-    "criteria": {
-      "has_slashblade_wood": "2025-01-31 06:46:04 +0000",
-      "has_the_recipe": "2025-01-31 06:46:04 +0000"
     },
     "done": true
   },
@@ -11440,27 +11404,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/fluorescent_bar": {
-    "criteria": {
-      "has_proudsoul": "2025-01-31 06:46:04 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_netherite": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/dark_lightswitch": {
     "criteria": {
       "has_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/fox_white": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
     },
     "done": true
   },
@@ -11476,27 +11422,9 @@
     },
     "done": true
   },
-  "slashblade:blade/s_wood": {
-    "criteria": {
-      "crafting": "2025-01-31 06:46:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-01-31 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_wood": {
-    "criteria": {
-      "has_wooden_sword": "2025-01-31 06:45:38 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/slashblade_tofu_ishi": {
-    "criteria": {
-      "has_slashblade_wood": "2025-01-31 06:46:04 +0000"
     },
     "done": true
   },
@@ -11527,6 +11455,78 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-31 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_black": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_diamond": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_golden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/katana": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_wooden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_iron": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/tachi": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_stone": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/ruby": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_netherite": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_white": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-01-31 06:52:27 +0000"
     },
     "done": true
   },

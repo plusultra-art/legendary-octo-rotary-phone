@@ -1762,3 +1762,8 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [31Jan2025 21:10:51.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [31Jan2025 21:10:51.596] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [31Jan2025 21:10:51.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Jan2025 21:26:34.392] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-4875, y=62, z=-1223}
+[31Jan2025 21:27:54.246] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2038ms or 40 ticks
+[31Jan2025 21:32:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [My Name is Nobody]
+[31Jan2025 21:37:51.458] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2012ms or 40 ticks
+[31Jan2025 21:47:36.442] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-8054, y=69, z=-1561}

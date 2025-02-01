@@ -686,3 +686,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Feb2025 05:01:05.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> pasa q esta mi hermana al lado
 [01Feb2025 05:01:30.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> nono
 [01Feb2025 05:01:33.505] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2013, y=63, z=-982}
+[01Feb2025 05:02:34.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> vamo a comprar bizcochos
+[01Feb2025 05:02:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> voy*
+[01Feb2025 05:03:09.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> xd
+[01Feb2025 05:03:18.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> almenos como rico
+[01Feb2025 05:03:20.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> xd
+[01Feb2025 05:03:25.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emizz> osea bizcochos
+[01Feb2025 05:03:38.265] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[01Feb2025 05:05:23.985] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2371ms or 47 ticks
+[01Feb2025 05:08:29.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[01Feb2025 05:08:29.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[01Feb2025 05:08:53.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:46229] logged in with entity id 4283 at (-1181.1313136285162, 111.0, -1585.997315175136)
+[01Feb2025 05:08:53.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
+[01Feb2025 05:09:06.223] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[01Feb2025 05:09:42.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has reached the goal [Horror Under the Mantle]
+[01Feb2025 05:10:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley fell from a high place
+[01Feb2025 05:10:16.260] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[01Feb2025 05:10:26.303] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2008ms or 40 ticks
+[01Feb2025 05:10:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz fell from a high place
+[01Feb2025 05:10:47.523] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[01Feb2025 05:10:55.231] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
+[01Feb2025 05:11:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was doomed to fall
+[01Feb2025 05:11:51.627] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.

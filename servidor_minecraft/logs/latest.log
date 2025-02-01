@@ -708,3 +708,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Feb2025 05:10:55.231] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
 [01Feb2025 05:11:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was doomed to fall
 [01Feb2025 05:11:51.627] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[01Feb2025 05:13:38.132] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2132ms or 42 ticks
+[01Feb2025 05:14:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was slain by Ferrous Wroughtnaut
+[01Feb2025 05:14:40.045] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[01Feb2025 05:17:38.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has completed the challenge [Just a Flesh Wound]
+[01Feb2025 05:18:38.548] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2569ms or 51 ticks
+[01Feb2025 05:20:02.403] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2034, y=66, z=-961}

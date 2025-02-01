@@ -754,3 +754,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Feb2025 06:06:49.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved wrongly!
 [01Feb2025 06:08:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has reached the goal [Heart Of The Storm]
 [01Feb2025 06:08:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Greed]
+[01Feb2025 06:13:21.603] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-3070, y=69, z=-1111}
+[01Feb2025 06:22:32.543] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2929ms or 58 ticks
+[01Feb2025 06:23:32.661] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2189ms or 43 ticks

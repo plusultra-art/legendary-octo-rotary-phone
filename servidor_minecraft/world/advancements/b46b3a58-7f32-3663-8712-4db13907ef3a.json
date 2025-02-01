@@ -8739,59 +8739,13 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-01-31 00:22:40 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
-    "criteria": {
-      "strong_hidden": "2025-01-31 00:02:25 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_cell_maze": {
-    "criteria": {
-      "in_cell_maze": "2025-01-31 00:56:24 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_hanging_garden": "2025-01-31 00:05:39 +0000",
-      "in_honey_cave_room": "2025-01-31 00:52:14 +0000",
-      "in_pollinated_stream": "2025-01-31 00:09:27 +0000",
-      "in_cell_maze": "2025-01-31 00:56:24 +0000",
-      "in_dance_floor": "2025-01-30 23:36:59 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
-    "criteria": {
-      "has_honeycomb_block": "2025-01-30 23:46:17 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2025-01-31 00:59:16 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sweet_dough": {
-    "criteria": {
-      "has_sugar": "2025-01-30 23:39:46 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
-    "criteria": {
-      "obtain_sugar_infused_stone": "2025-01-31 00:37:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-30 22:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-30 22:40:55 +0000"
     },
@@ -8803,21 +8757,9 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+  "beautify:botanist_workbench": {
     "criteria": {
-      "obtain_honey_crystal_shield": "2025-01-31 00:59:06 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_dough": {
-    "criteria": {
-      "has_sugar": "2025-01-30 23:39:46 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
-    "criteria": {
-      "stinger_spear_poisoning": "2025-01-31 00:59:51 +0000"
+      "requirement": "2025-01-30 22:42:19 +0000"
     },
     "done": true
   },
@@ -8827,50 +8769,15 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
     "criteria": {
-      "teleport_out_of_bumblezone": "2025-01-30 23:46:42 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "pollinated_pillar": "2025-01-31 00:05:09 +0000",
-      "crystal_canyon": "2025-01-31 00:31:03 +0000",
-      "sugar_water_floor": "2025-01-30 23:33:02 +0000",
-      "hive_pillar": "2025-01-30 23:59:04 +0000",
-      "hive_wall": "2025-01-30 23:34:07 +0000",
-      "pollinated_fields": "2025-01-30 23:34:10 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2025-01-30 23:32:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-01-31 00:22:40 +0000"
+      "has_red_tulip": "2025-01-30 22:42:21 +0000"
     },
     "done": true
   },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-01-30 22:43:24 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/obtain_throne_honey_compass": {
-    "criteria": {
-      "obtain_throne_honey_compass": "2025-01-31 00:58:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-01-30 23:49:19 +0000"
     },
     "done": true
   },
@@ -8886,15 +8793,84 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
-      "has_honeycomb": "2025-01-31 00:12:37 +0000"
+      "has_wood_bowl": "2025-01-30 22:43:24 +0000"
     },
     "done": true
   },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+  "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-01-31 00:57:12 +0000"
+      "has_wood_plate": "2025-01-30 22:43:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-01-30 23:32:59 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "pollinated_pillar": "2025-01-31 00:05:09 +0000",
+      "crystal_canyon": "2025-01-31 00:31:03 +0000",
+      "sugar_water_floor": "2025-01-30 23:33:02 +0000",
+      "hive_pillar": "2025-01-30 23:59:04 +0000",
+      "hive_wall": "2025-01-30 23:34:07 +0000",
+      "pollinated_fields": "2025-01-30 23:34:10 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_hanging_garden": "2025-01-31 00:05:39 +0000",
+      "in_honey_cave_room": "2025-01-31 00:52:14 +0000",
+      "in_pollinated_stream": "2025-01-31 00:09:27 +0000",
+      "in_cell_maze": "2025-01-31 00:56:24 +0000",
+      "in_dance_floor": "2025-01-30 23:36:59 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_honey_bee_rat_faced_boy": "2025-01-30 23:37:13 +0000"
+    },
+    "done": false
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-01-30 23:39:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-01-30 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-01-30 23:46:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-30 23:49:19 +0000"
     },
     "done": true
   },
@@ -8910,21 +8886,9 @@
     },
     "done": true
   },
-  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
     "criteria": {
-      "carve_wax_2": "2025-01-31 00:38:12 +0000"
-    },
-    "done": false
-  },
-  "bakery:recipes/dough": {
-    "criteria": {
-      "has_sugar": "2025-01-30 23:39:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/honey_block_slide": {
-    "criteria": {
-      "honey_block_slide": "2025-01-31 00:41:52 +0000"
+      "strong_hidden": "2025-01-31 00:02:25 +0000"
     },
     "done": true
   },
@@ -8934,57 +8898,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "has_azure_bluet": "2025-01-30 22:40:55 +0000"
+      "has_honeycomb": "2025-01-31 00:12:37 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_red_tulip": "2025-01-30 22:42:21 +0000"
+      "has_honeycomb": "2025-01-31 00:12:37 +0000"
     },
     "done": true
   },
-  "beautify:botanist_workbench": {
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
     "criteria": {
-      "requirement": "2025-01-30 22:42:19 +0000"
+      "has_pink_petals": "2025-01-31 00:22:40 +0000"
     },
     "done": true
   },
-  "the_bumblezone:music_discs/obtain_all_music_discs": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "obtain_music_disc_honey_bee_rat_faced_boy": "2025-01-30 23:37:13 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:armor/warrior_bee": {
-    "criteria": {
-      "warrior_bee": "2025-01-31 01:09:27 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_bowl": {
-    "criteria": {
-      "has_wood_bowl": "2025-01-30 22:43:24 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/craft_honey_compass": {
-    "criteria": {
-      "obtain_honey_compass": "2025-01-31 00:58:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_plate": {
-    "criteria": {
-      "has_wood_plate": "2025-01-30 22:43:24 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal/cleanup_honey_web": {
-    "criteria": {
-      "cleanup_honey_web": "2025-01-31 01:11:45 +0000"
+      "has_pink_petals": "2025-01-31 00:22:40 +0000"
     },
     "done": true
   },
@@ -8994,9 +8928,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
     "criteria": {
-      "has_honeycomb": "2025-01-31 00:12:37 +0000"
+      "obtain_sugar_infused_stone": "2025-01-31 00:37:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_2": "2025-01-31 00:38:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-01-31 00:41:52 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-01-31 00:56:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-01-31 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/obtain_throne_honey_compass": {
+    "criteria": {
+      "obtain_throne_honey_compass": "2025-01-31 00:58:56 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-01-31 00:58:56 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-01-31 00:59:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-01-31 00:59:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2025-01-31 00:59:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/warrior_bee": {
+    "criteria": {
+      "warrior_bee": "2025-01-31 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/cleanup_honey_web": {
+    "criteria": {
+      "cleanup_honey_web": "2025-01-31 01:11:45 +0000"
     },
     "done": true
   },

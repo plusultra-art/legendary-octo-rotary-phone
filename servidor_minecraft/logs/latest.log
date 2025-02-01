@@ -724,3 +724,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Feb2025 05:37:13.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 8.36572443283103,0.03904085860290962,5.950274953933899
 [01Feb2025 05:37:14.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 8.776884279564456,0.0,-9.522127636055643
 [01Feb2025 05:42:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has completed the challenge [The Dead Sea]
+[01Feb2025 05:42:57.555] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2064ms or 41 ticks
+[01Feb2025 05:45:33.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set niley's game mode to Creative Mode
+[01Feb2025 05:46:23.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid name or UUID
+[01Feb2025 05:46:23.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... survival  niley<--[HERE]
+[01Feb2025 05:46:41.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set niley's game mode to Survival Mode
+[01Feb2025 05:46:48.177] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2417ms or 48 ticks
+[01Feb2025 05:48:03.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Feb2025 05:48:14.718] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2214ms or 44 ticks
+[01Feb2025 05:49:09.146] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2034ms or 40 ticks
+[01Feb2025 05:50:27.187] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks
+[01Feb2025 05:51:42.617] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2086ms or 41 ticks
+[01Feb2025 05:51:49.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[01Feb2025 05:52:00.026] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-1807, y=65, z=-924}
+[01Feb2025 05:52:43.906] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2105ms or 42 ticks
+[01Feb2025 05:55:25.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[01Feb2025 05:55:25.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[01Feb2025 05:55:28.454] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2093ms or 41 ticks
+[01Feb2025 05:55:34.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[01Feb2025 05:55:34.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[01Feb2025 05:55:45.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:49903] logged in with entity id 29525 at (-3021.683492670667, 63.0, -1060.5207551586611)
+[01Feb2025 05:55:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
+[01Feb2025 05:56:00.781] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[01Feb2025 05:56:37.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:42709] logged in with entity id 30086 at (-3016.6782980431713, 63.0, -1079.7298251838542)
+[01Feb2025 05:56:37.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[01Feb2025 05:56:51.953] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[01Feb2025 05:58:29.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved wrongly!
+[01Feb2025 05:59:41.976] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2071ms or 41 ticks
+[01Feb2025 06:06:49.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved wrongly!
+[01Feb2025 06:08:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has reached the goal [Heart Of The Storm]
+[01Feb2025 06:08:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Greed]

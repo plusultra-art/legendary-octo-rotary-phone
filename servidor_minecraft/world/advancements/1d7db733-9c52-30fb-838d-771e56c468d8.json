@@ -11926,6 +11926,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2025-02-01 05:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-02-01 05:17:33 +0000"

@@ -5997,3 +5997,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Feb2025 05:31:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> vvvvvvvvvvvvvvvvvvv
 [01Feb2025 05:31:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Exploration]
 [01Feb2025 05:32:32.105] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2068ms or 41 ticks
+[01Feb2025 05:33:36.371] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Feb2025 05:33:36.371] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Feb2025 05:33:36.372] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Feb2025 05:33:36.372] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Feb2025 05:33:36.373] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[01Feb2025 05:33:36.799] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[01Feb2025 05:33:36.805] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Feb2025 05:33:36.806] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Feb2025 05:33:36.806] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Feb2025 05:33:36.807] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[01Feb2025 05:33:36.812] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[01Feb2025 05:33:36.812] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[01Feb2025 05:33:38.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 05:33:38.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 05:33:38.409] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2306ms or 46 ticks
+[01Feb2025 05:36:32.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved wrongly!
+[01Feb2025 05:37:13.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 8.36572443283103,0.03904085860290962,5.950274953933899
+[01Feb2025 05:37:14.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 8.776884279564456,0.0,-9.522127636055643
+[01Feb2025 05:38:33.222] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[01Feb2025 05:38:38.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 05:38:38.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 05:42:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has completed the challenge [The Dead Sea]

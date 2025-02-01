@@ -719,3 +719,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Feb2025 05:31:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> vvvvvvvvvvvvvvvvvvv
 [01Feb2025 05:31:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Exploration]
 [01Feb2025 05:32:32.105] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2068ms or 41 ticks
+[01Feb2025 05:33:38.409] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2306ms or 46 ticks
+[01Feb2025 05:36:32.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved wrongly!
+[01Feb2025 05:37:13.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 8.36572443283103,0.03904085860290962,5.950274953933899
+[01Feb2025 05:37:14.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 8.776884279564456,0.0,-9.522127636055643
+[01Feb2025 05:42:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has completed the challenge [The Dead Sea]

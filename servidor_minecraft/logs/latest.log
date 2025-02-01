@@ -757,3 +757,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01Feb2025 06:13:21.603] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-3070, y=69, z=-1111}
 [01Feb2025 06:22:32.543] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2929ms or 58 ticks
 [01Feb2025 06:23:32.661] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2189ms or 43 ticks
+[01Feb2025 06:23:48.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[01Feb2025 06:23:48.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[01Feb2025 06:23:51.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[01Feb2025 06:23:51.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[01Feb2025 06:24:10.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Feb2025 06:24:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Feb2025 06:24:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Feb2025 06:24:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Feb2025 06:24:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Feb2025 06:24:11.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[01Feb2025 06:24:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Feb2025 06:24:11.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01Feb2025 06:24:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[01Feb2025 06:24:11.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Feb2025 06:24:11.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Feb2025 06:24:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Feb2025 06:24:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[01Feb2025 06:24:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Feb2025 06:24:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01Feb2025 06:24:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[01Feb2025 06:24:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Feb2025 06:24:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Feb2025 06:24:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Feb2025 06:24:11.302] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Feb2025 06:24:11.303] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[01Feb2025 06:24:11.305] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01Feb2025 06:24:11.308] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

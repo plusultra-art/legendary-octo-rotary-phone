@@ -11970,9 +11970,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-02 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-02-02 23:22:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-02-02 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-02-02 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-02-02 23:28:14 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
       "requirement": "2025-02-02 23:02:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-02-02 23:28:14 +0000"
     },
     "done": true
   },

@@ -710,3 +710,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [02Feb2025 23:10:18.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Stay dead]
 [02Feb2025 23:11:50.510] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2190ms or 43 ticks
 [02Feb2025 23:14:32.663] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2083ms or 41 ticks
+[02Feb2025 23:24:38.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was slain by niley
+[02Feb2025 23:24:39.846] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[02Feb2025 23:28:26.249] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2006, y=62, z=-984}

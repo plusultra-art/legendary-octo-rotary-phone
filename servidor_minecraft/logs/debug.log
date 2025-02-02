@@ -5763,3 +5763,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [02Feb2025 23:15:26.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Feb2025 23:20:26.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 23:20:26.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:24:38.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was slain by niley
+[02Feb2025 23:24:39.673] [Server thread/DEBUG] [twilightforest/]: Player emizz (1d7db733-9c52-30fb-838d-771e56c468d8) respawned and received items held in storage
+[02Feb2025 23:24:39.846] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[02Feb2025 23:25:26.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:25:26.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:28:26.249] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2006, y=62, z=-984}
+[02Feb2025 23:30:26.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:30:26.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

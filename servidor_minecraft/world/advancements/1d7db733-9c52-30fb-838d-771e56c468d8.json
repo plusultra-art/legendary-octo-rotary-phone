@@ -11940,9 +11940,9 @@
     },
     "done": true
   },
-  "aquamirae:recipes/elodea": {
+  "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
-      "has_item": "2025-02-01 06:06:30 +0000"
+      "has_item": "2025-02-01 06:00:06 +0000"
     },
     "done": true
   },
@@ -11952,21 +11952,27 @@
     },
     "done": true
   },
+  "aquamirae:recipes/elodea": {
+    "criteria": {
+      "has_item": "2025-02-01 06:06:30 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_rune_of_the_storm": {
     "criteria": {
       "rune_of_the_storm": "2025-02-01 06:08:12 +0000"
     },
     "done": true
   },
-  "aquamirae:recipes/ship_graveyard_echo": {
-    "criteria": {
-      "has_item": "2025-02-01 06:00:06 +0000"
-    },
-    "done": true
-  },
   "aquamirae:recipes/astral_dust": {
     "criteria": {
       "has_item": "2025-02-01 06:08:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-02-02 23:02:40 +0000"
     },
     "done": true
   },

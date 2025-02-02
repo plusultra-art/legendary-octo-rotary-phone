@@ -130,6 +130,7 @@
       "snowy_fir_clearing": "2024-12-15 23:02:51 +0000",
       "undergrowth": "2024-12-17 01:06:54 +0000",
       "crag": "2024-12-15 01:11:04 +0000",
+      "snowy_maple_woods": "2025-02-02 22:39:48 +0000",
       "ominous_woods": "2024-12-16 00:12:08 +0000"
     },
     "done": false
@@ -9096,6 +9097,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-02-01 06:00:11 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
       "has_barrel": "2025-02-01 06:00:32 +0000"
@@ -9114,12 +9121,6 @@
     },
     "done": true
   },
-  "aquamirae:recipes/ship_graveyard_echo": {
-    "criteria": {
-      "has_item": "2025-02-01 06:00:11 +0000"
-    },
-    "done": true
-  },
   "aquamirae:adventure/obtain_dagger_of_greed": {
     "criteria": {
       "dagger_of_greed": "2025-02-01 06:08:17 +0000"
@@ -9129,6 +9130,30 @@
   "aquamirae:recipes/astral_dust": {
     "criteria": {
       "has_item": "2025-02-01 06:08:33 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/abyssal_amethyst": {
+    "criteria": {
+      "has_item": "2025-02-02 22:46:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-02 22:57:14 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-02-02 23:10:18 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-02-02 23:04:35 +0000"
     },
     "done": true
   },

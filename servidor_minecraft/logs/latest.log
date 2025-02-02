@@ -713,3 +713,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [02Feb2025 23:24:38.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was slain by niley
 [02Feb2025 23:24:39.846] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
 [02Feb2025 23:28:26.249] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2006, y=62, z=-984}
+[02Feb2025 23:35:26.991] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2079ms or 41 ticks
+[02Feb2025 23:41:33.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[02Feb2025 23:49:06.023] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[02Feb2025 23:49:21.744] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[02Feb2025 23:49:43.512] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2280ms or 45 ticks
+[02Feb2025 23:49:56.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Lorem Ipsum]
+[02Feb2025 23:51:59.999] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2019, y=63, z=-976}
+[02Feb2025 23:53:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Lorem Ipsum]

@@ -11974,9 +11974,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
-      "has_gold_block": "2025-02-02 23:28:14 +0000"
+      "requirement": "2025-02-02 23:02:40 +0000"
     },
     "done": true
   },
@@ -11986,63 +11986,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_item": "2025-02-03 00:25:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-02-03 00:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-03 00:18:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-03 00:26:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-02-03 00:06:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-02-03 00:38:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-03 00:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
-    "criteria": {
-      "has_polished_granite": "2025-02-03 00:38:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-02-02 23:38:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+      "has_gold_block": "2025-02-02 23:28:14 +0000"
     },
     "done": true
   },
@@ -12052,63 +11998,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-02-02 23:49:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-02-03 00:25:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2025-02-03 00:18:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
-    "criteria": {
-      "has_dragonscales_blue": "2025-02-03 00:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-02-02 23:38:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-03 00:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-02-03 00:13:38 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-02-02 23:28:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_boots": {
-    "criteria": {
-      "has_item": "2025-02-03 00:35:15 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/hanging_pot": {
-    "criteria": {
-      "obtain": "2025-02-03 00:16:49 +0000"
     },
     "done": true
   },
@@ -12118,27 +12010,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
+  "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
-      "has_wet_sponge": "2025-02-03 00:18:47 +0000"
+      "has_golden_wide_pot": "2025-02-02 23:28:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall": {
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
-      "has_prismarine": "2025-02-03 00:18:33 +0000"
+      "has_emerald_ore": "2025-02-02 23:38:47 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_chestplate": {
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
-      "has_item": "2025-02-03 00:35:15 +0000"
+      "has_emerald_ore": "2025-02-02 23:38:47 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_helmet": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_item": "2025-02-03 00:35:15 +0000"
+      "cave_codex": "2025-02-02 23:49:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-03 00:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-02-03 00:13:38 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-02-03 00:16:49 +0000"
     },
     "done": true
   },
@@ -12148,21 +12058,63 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
-      "has_item": "2025-02-03 00:35:58 +0000"
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-02-03 00:18:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-03 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-02-03 00:25:16 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-02-03 00:25:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
-    "criteria": {
-      "has_polished_granite": "2025-02-03 00:38:20 +0000"
     },
     "done": true
   },
@@ -12178,21 +12130,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "has_prismarine": "2025-02-03 00:18:33 +0000"
+      "killed_fire_dragon": "2025-02-03 00:26:39 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+  "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
-      "requirement": "2025-02-02 23:02:40 +0000"
+      "has_item": "2025-02-03 00:35:15 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_wide_pot": {
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
-      "has_golden_wide_pot": "2025-02-02 23:28:14 +0000"
+      "has_dragonscales_blue": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-03 00:50:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-03 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-02-03 00:52:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-02-03 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-02-03 00:53:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-02-03 00:54:13 +0000"
     },
     "done": true
   },

@@ -47,3 +47,51 @@
 [03Feb2025 00:43:17.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
 [03Feb2025 00:43:32.094] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
 [03Feb2025 00:44:27.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2037, y=61, z=-4953} BlockPos{x=2038, y=62, z=-4953}
+[03Feb2025 00:45:32.736] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2424ms or 48 ticks
+[03Feb2025 00:45:46.834] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 8867 2 -7935 in 1s
+[03Feb2025 00:45:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has reached the goal [Horror of the Depths]
+[03Feb2025 00:46:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [The Journey Begins]
+[03Feb2025 00:47:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has completed the challenge [Free Willy]
+[03Feb2025 00:48:24.761] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Feb2025 00:49:27.749] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=2664, y=75, z=-5538}
+[03Feb2025 00:49:48.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! -6.729927638457411,-0.9215999984741217,7.4171456124950055
+[03Feb2025 00:50:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has reached the goal [Pure Imagination]
+[03Feb2025 00:50:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has reached the goal [Pure Imagination]
+[03Feb2025 00:52:15.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Yellow Brick Road]
+[03Feb2025 00:52:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Yellow Brick Road]
+[03Feb2025 00:52:43.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Unwrapped Candy]
+[03Feb2025 00:52:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Unwrapped Candy]
+[03Feb2025 00:53:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [I Found the Coin Slot]
+[03Feb2025 00:53:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Carbonated Swim]
+[03Feb2025 00:53:12.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [I Found the Coin Slot]
+[03Feb2025 00:54:13.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Oh Little Town of Gingerbread]
+[03Feb2025 00:55:14.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [You're a Monster]
+[03Feb2025 00:56:07.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Oh Little Town of Gingerbread]
+[03Feb2025 00:56:18.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
+[03Feb2025 00:56:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[03Feb2025 00:56:18.827] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Feb2025 00:56:43.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[03Feb2025 00:56:43.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[03Feb2025 00:58:07.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Feb2025 00:58:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Feb2025 00:58:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Feb2025 00:58:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Feb2025 00:58:07.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Feb2025 00:58:07.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03Feb2025 00:58:07.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[03Feb2025 00:58:07.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Feb2025 00:58:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Feb2025 00:58:07.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[03Feb2025 00:58:07.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[03Feb2025 00:58:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Feb2025 00:58:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Feb2025 00:58:08.245] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03Feb2025 00:58:08.246] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[03Feb2025 00:58:08.249] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[03Feb2025 00:58:08.252] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

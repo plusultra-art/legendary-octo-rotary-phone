@@ -2,3 +2,48 @@
 [03Feb2025 00:03:48.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:54505] logged in with entity id 47200 at (-2048.699999988079, 63.875, -1019.6999999880791)
 [03Feb2025 00:03:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
 [03Feb2025 00:04:03.076] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 00:06:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [The Journey Begins]
+[03Feb2025 00:07:29.243] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 2674 -56 -5992 in 2s
+[03Feb2025 00:07:29.249] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks
+[03Feb2025 00:08:16.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 8.200338923012396,0.0,-6.233728389317321
+[03Feb2025 00:09:43.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/49175, l='ServerLevel[world]', x=-1439.86, y=63.00, z=-1420.50] died, message: 'Shepherd was shot by Pillager'
+[03Feb2025 00:11:54.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/51565, l='ServerLevel[world]', x=-730.50, y=87.00, z=-1998.50] died, message: 'Possessed Villager suffocated in a wall'
+[03Feb2025 00:12:55.030] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2076ms or 41 ticks
+[03Feb2025 00:16:18.329] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/54314, l='ServerLevel[world]', x=-269.41, y=55.00, z=-2493.42] died, message: 'Botanist was slain by Zombie'
+[03Feb2025 00:16:18.585] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2064ms or 41 ticks
+[03Feb2025 00:16:49.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Left hanging]
+[03Feb2025 00:16:59.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/55196, l='ServerLevel[world]', x=-256.43, y=77.00, z=-2515.57] died, message: 'Possessed Villager was shot by Pillager'
+[03Feb2025 00:17:42.799] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=40, y=71, z=-2692}
+[03Feb2025 00:22:13.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 5.998092244111035,-2.3703056042266724,-7.992755388601381
+[03Feb2025 00:22:13.020] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3329ms or 66 ticks
+[03Feb2025 00:24:17.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Dragonslayer]
+[03Feb2025 00:26:17.608] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2248ms or 44 ticks
+[03Feb2025 00:26:25.615] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Feb2025 00:26:25.618] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Feb2025 00:26:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Dragonslayer]
+[03Feb2025 00:27:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> z
+[03Feb2025 00:27:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> z
+[03Feb2025 00:27:39.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> z
+[03Feb2025 00:32:16.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/65867, l='ServerLevel[world]', x=1685.83, y=70.62, z=-4281.33] died, message: 'Weaponsmith was slain by Ice Dragon'
+[03Feb2025 00:32:41.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/65835, l='ServerLevel[world]', x=1688.10, y=67.94, z=-4274.59] died, message: 'Weaponsmith was slain by Ice Dragon'
+[03Feb2025 00:32:49.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65836, l='ServerLevel[world]', x=1677.12, y=68.00, z=-4276.12] died, message: 'Villager was slain by Ice Dragon'
+[03Feb2025 00:35:26.973] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2182ms or 43 ticks
+[03Feb2025 00:36:36.855] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[03Feb2025 00:36:45.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 4.932314616028862,0.0,-8.804485252368977
+[03Feb2025 00:36:45.659] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5818ms or 116 ticks
+[03Feb2025 00:36:45.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5510ms or 110 ticks behind
+[03Feb2025 00:39:13.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! -10.10287494382419,0.0,-3.053776458149514
+[03Feb2025 00:39:13.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! -10.316348778550264,0.0,-4.076868135780387
+[03Feb2025 00:40:30.960] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
+[03Feb2025 00:40:32.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1829, y=58, z=-4847} BlockPos{x=1829, y=57, z=-4847}
+[03Feb2025 00:41:15.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[03Feb2025 00:41:15.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[03Feb2025 00:41:36.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:38875] logged in with entity id 72596 at (1876.5716842266622, 62.88888931274414, -4956.854850332285)
+[03Feb2025 00:41:36.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
+[03Feb2025 00:42:07.425] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 00:42:32.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[03Feb2025 00:42:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[03Feb2025 00:43:17.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:56481] logged in with entity id 73167 at (2024.2125558183354, 63.0, -4972.809664368344)
+[03Feb2025 00:43:17.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[03Feb2025 00:43:32.094] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 00:44:27.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2037, y=61, z=-4953} BlockPos{x=2038, y=62, z=-4953}

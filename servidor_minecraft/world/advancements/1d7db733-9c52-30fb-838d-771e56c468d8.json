@@ -124,6 +124,7 @@
       "coniferous_forest": "2024-12-15 17:53:45 +0000",
       "spider_nest": "2024-12-18 21:43:44 +0000",
       "dryland": "2025-01-30 22:21:04 +0000",
+      "wasteland": "2025-02-03 00:17:27 +0000",
       "lush_desert": "2025-01-30 22:20:58 +0000",
       "redwood_forest": "2024-12-15 00:01:55 +0000",
       "seasonal_orchard": "2025-01-31 21:30:18 +0000",
@@ -131,10 +132,12 @@
       "auroral_garden": "2024-12-15 01:58:44 +0000",
       "volcano": "2024-12-19 00:51:44 +0000",
       "rocky_rainforest": "2024-12-19 01:12:56 +0000",
+      "pasture": "2025-02-03 00:22:57 +0000",
       "lavender_field": "2024-12-15 00:08:43 +0000",
       "fir_clearing": "2024-12-15 17:55:22 +0000",
       "pumpkin_patch": "2024-12-15 00:57:03 +0000",
       "grassland": "2024-12-15 04:24:40 +0000",
+      "prairie": "2025-02-03 00:23:16 +0000",
       "snowy_coniferous_forest": "2024-12-15 01:58:19 +0000",
       "snowy_fir_clearing": "2024-12-15 01:58:40 +0000",
       "tundra": "2024-12-15 01:18:10 +0000",
@@ -1652,6 +1655,7 @@
       "minecraft:frozen_river": "2024-12-15 01:10:02 +0000",
       "minecraft:sunflower_plains": "2024-12-15 00:49:00 +0000",
       "minecraft:birch_forest": "2024-12-15 00:02:30 +0000",
+      "minecraft:savanna_plateau": "2025-02-03 00:14:55 +0000",
       "minecraft:beach": "2024-12-15 17:53:41 +0000",
       "minecraft:stony_peaks": "2024-12-18 22:27:49 +0000",
       "minecraft:river": "2024-12-15 00:57:22 +0000",
@@ -11982,9 +11986,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-03 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-03 00:26:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-03 00:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-02-02 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
     },
     "done": true
   },
@@ -12000,9 +12058,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-02-03 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-02-02 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-02-03 00:13:38 +0000"
     },
     "done": true
   },
@@ -12012,9 +12100,87 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-02-03 00:16:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-02-02 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-02-03 00:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-02-03 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-02-03 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-02-03 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-02-03 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-02-03 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-02-03 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-02-03 00:18:33 +0000"
     },
     "done": true
   },

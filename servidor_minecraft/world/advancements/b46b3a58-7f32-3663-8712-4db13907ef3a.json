@@ -110,6 +110,7 @@
       "highland": "2024-12-15 18:28:13 +0000",
       "jade_cliffs": "2024-12-14 23:53:17 +0000",
       "clover_patch": "2024-12-14 23:46:11 +0000",
+      "mystic_grove": "2025-02-03 01:19:19 +0000",
       "cold_desert": "2024-12-17 00:47:38 +0000",
       "old_growth_woodland": "2025-02-03 00:11:52 +0000",
       "maple_woods": "2024-12-15 01:10:54 +0000",
@@ -117,6 +118,7 @@
       "orchard": "2024-12-15 00:08:46 +0000",
       "field": "2024-12-15 23:02:56 +0000",
       "lavender_forest": "2024-12-15 00:14:10 +0000",
+      "moor": "2025-02-03 01:20:12 +0000",
       "mediterranean_forest": "2025-02-03 00:15:07 +0000",
       "coniferous_forest": "2024-12-15 18:36:39 +0000",
       "forested_field": "2024-12-17 15:22:35 +0000",
@@ -126,8 +128,11 @@
       "lush_desert": "2025-02-03 00:17:30 +0000",
       "redwood_forest": "2024-12-14 23:57:27 +0000",
       "seasonal_orchard": "2024-12-15 01:22:54 +0000",
+      "seasonal_forest": "2025-02-03 03:36:36 +0000",
       "auroral_garden": "2024-12-15 23:02:31 +0000",
       "pasture": "2025-02-03 00:23:00 +0000",
+      "rocky_rainforest": "2025-02-03 02:56:34 +0000",
+      "volcanic_plains": "2025-02-03 02:56:31 +0000",
       "lavender_field": "2024-12-15 00:14:02 +0000",
       "fir_clearing": "2024-12-15 20:25:55 +0000",
       "pumpkin_patch": "2024-12-15 00:58:15 +0000",
@@ -136,6 +141,7 @@
       "snowy_coniferous_forest": "2024-12-15 22:42:04 +0000",
       "snowy_fir_clearing": "2024-12-15 23:02:51 +0000",
       "undergrowth": "2024-12-17 01:06:54 +0000",
+      "rainforest": "2025-02-03 02:56:50 +0000",
       "crag": "2024-12-15 01:11:04 +0000",
       "snowy_maple_woods": "2025-02-02 22:39:48 +0000",
       "ominous_woods": "2024-12-16 00:12:08 +0000"
@@ -145,6 +151,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-15 01:25:39 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-02-03 03:59:09 +0000",
       "minecraft:mushroom_fields": "2024-12-15 04:06:16 +0000",
       "minecraft:taiga": "2024-12-15 03:40:42 +0000",
       "minecraft:deep_ocean": "2024-12-15 04:23:46 +0000",
@@ -173,6 +180,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-02-03 00:18:19 +0000",
       "minecraft:flower_forest": "2024-12-15 01:32:27 +0000",
       "minecraft:frozen_peaks": "2024-12-15 01:12:59 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-03 01:17:10 +0000",
       "minecraft:deep_dark": "2024-12-18 21:47:02 +0000",
       "minecraft:meadow": "2024-12-15 01:29:42 +0000",
       "minecraft:savanna": "2025-02-03 00:14:44 +0000",
@@ -1528,6 +1536,7 @@
       "salmon": "2024-12-15 04:00:53 +0000",
       "golden_carrot": "2024-12-15 20:19:25 +0000",
       "cooked_chicken": "2024-12-15 19:29:36 +0000",
+      "enchanted_golden_apple": "2025-02-03 02:49:50 +0000",
       "mushroom_stew": "2024-12-15 04:12:26 +0000",
       "cod": "2024-12-15 04:00:43 +0000",
       "rabbit_stew": "2024-12-17 00:53:20 +0000",
@@ -2732,6 +2741,7 @@
       "minecraft:spider": "2024-12-15 01:12:33 +0000",
       "minecraft:piglin_brute": "2024-12-18 19:57:09 +0000",
       "minecraft:creeper": "2024-12-15 18:51:06 +0000",
+      "minecraft:wither": "2025-02-03 04:38:35 +0000",
       "minecraft:evoker": "2024-12-15 04:29:34 +0000",
       "minecraft:phantom": "2024-12-19 18:49:23 +0000",
       "minecraft:wither_skeleton": "2024-12-17 14:47:26 +0000",
@@ -5727,6 +5737,7 @@
   "endofherobrine:story/exorcist": {
     "criteria": {
       "endofherobrine:chicken": "2024-12-15 18:57:06 +0000",
+      "endofherobrine:villager": "2025-02-03 03:13:59 +0000",
       "endofherobrine:sheep": "2024-12-15 22:39:42 +0000",
       "endofherobrine:cow": "2024-12-15 18:03:50 +0000",
       "endofherobrine:pigman": "2024-12-15 18:00:05 +0000"
@@ -9283,57 +9294,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_candy_cavity": {
-    "criteria": {
-      "discover": "2025-02-03 00:50:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2025-02-03 00:53:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-02-03 00:47:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-02-03 00:46:12 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2025-02-03 00:44:08 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-02-03 00:52:15 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-02-03 00:44:08 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2025-02-03 00:52:43 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
-    "criteria": {
-      "killed": "2025-02-03 00:53:05 +0000"
     },
     "done": true
   },
@@ -9349,9 +9318,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-02-03 00:44:08 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
       "horrorofthe_depths_0": "2025-02-03 00:45:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-03 00:46:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-03 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-03 00:50:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-03 00:52:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-02-03 00:52:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-02-03 00:53:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-02-03 00:53:09 +0000"
     },
     "done": true
   },
@@ -9361,9 +9378,195 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_helmet": {
+  "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
-      "has_item": "2025-02-03 00:44:08 +0000"
+      "crumbs": "2025-02-03 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-03 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-02-03 01:12:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-02-03 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-02-03 03:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-03 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-02-03 03:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-03 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-02-03 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-02-03 03:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-02-03 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-02-03 03:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-03 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-03 04:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-03 02:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-03 04:31:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-02-03 03:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 02:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-02-03 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-02-03 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-02-03 03:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:01 +0000"
     },
     "done": true
   },

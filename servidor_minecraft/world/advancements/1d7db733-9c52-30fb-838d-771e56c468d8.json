@@ -112,6 +112,7 @@
       "highland": "2024-12-15 18:28:06 +0000",
       "jade_cliffs": "2024-12-14 23:52:09 +0000",
       "clover_patch": "2024-12-14 23:50:51 +0000",
+      "mystic_grove": "2025-02-03 01:19:15 +0000",
       "cold_desert": "2024-12-15 21:52:10 +0000",
       "old_growth_woodland": "2024-12-19 01:06:55 +0000",
       "maple_woods": "2024-12-16 17:02:43 +0000",
@@ -1658,6 +1659,7 @@
       "minecraft:savanna_plateau": "2025-02-03 00:14:55 +0000",
       "minecraft:beach": "2024-12-15 17:53:41 +0000",
       "minecraft:stony_peaks": "2024-12-18 22:27:49 +0000",
+      "minecraft:dark_forest": "2025-02-03 01:09:27 +0000",
       "minecraft:river": "2024-12-15 00:57:22 +0000",
       "minecraft:lukewarm_ocean": "2024-12-19 01:05:00 +0000",
       "minecraft:stony_shore": "2024-12-14 23:58:55 +0000",
@@ -2513,11 +2515,13 @@
       "minecraft:pillager": "2024-12-15 01:18:36 +0000",
       "minecraft:blaze": "2024-12-17 02:47:20 +0000",
       "minecraft:skeleton": "2024-12-15 18:16:13 +0000",
+      "minecraft:elder_guardian": "2025-02-03 03:56:58 +0000",
       "minecraft:ravager": "2024-12-15 04:32:07 +0000",
       "minecraft:hoglin": "2024-12-17 01:11:34 +0000",
       "minecraft:vindicator": "2024-12-15 02:34:47 +0000",
       "minecraft:spider": "2024-12-15 01:25:10 +0000",
       "minecraft:creeper": "2024-12-15 18:49:58 +0000",
+      "minecraft:wither": "2025-02-03 04:31:10 +0000",
       "minecraft:evoker": "2025-02-01 06:01:15 +0000",
       "minecraft:phantom": "2025-01-31 20:18:25 +0000",
       "minecraft:wither_skeleton": "2024-12-17 02:48:42 +0000",
@@ -12214,12 +12218,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
-    "criteria": {
-      "crumbs": "2025-02-03 00:55:14 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-02-03 00:53:12 +0000"
@@ -12229,6 +12227,216 @@
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-02-03 00:54:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-02-03 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-02-03 01:10:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-02-03 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2025-02-03 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2025-02-03 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-03 02:18:30 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_developed_film": "2025-02-03 02:19:44 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2025-02-03 02:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 02:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 02:31:13 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-02-03 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-03 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-02-03 03:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-02-03 03:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-03 04:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-03 04:32:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-02-03 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-02-03 03:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-02-03 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-02-03 03:38:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/repair_submarine": {
+    "criteria": {
+      "interact": "2025-02-03 04:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-02-03 03:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-03 03:47:14 +0000"
     },
     "done": true
   },

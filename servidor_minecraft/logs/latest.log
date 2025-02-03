@@ -1,97 +1,950 @@
-[03Feb2025 00:01:41.049] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-2059, y=62, z=-970}
-[03Feb2025 00:03:48.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:54505] logged in with entity id 47200 at (-2048.699999988079, 63.875, -1019.6999999880791)
-[03Feb2025 00:03:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
-[03Feb2025 00:04:03.076] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
-[03Feb2025 00:06:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [The Journey Begins]
-[03Feb2025 00:07:29.243] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 2674 -56 -5992 in 2s
-[03Feb2025 00:07:29.249] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks
-[03Feb2025 00:08:16.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 8.200338923012396,0.0,-6.233728389317321
-[03Feb2025 00:09:43.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/49175, l='ServerLevel[world]', x=-1439.86, y=63.00, z=-1420.50] died, message: 'Shepherd was shot by Pillager'
-[03Feb2025 00:11:54.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/51565, l='ServerLevel[world]', x=-730.50, y=87.00, z=-1998.50] died, message: 'Possessed Villager suffocated in a wall'
-[03Feb2025 00:12:55.030] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2076ms or 41 ticks
-[03Feb2025 00:16:18.329] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Botanist'/54314, l='ServerLevel[world]', x=-269.41, y=55.00, z=-2493.42] died, message: 'Botanist was slain by Zombie'
-[03Feb2025 00:16:18.585] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2064ms or 41 ticks
-[03Feb2025 00:16:49.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Left hanging]
-[03Feb2025 00:16:59.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/55196, l='ServerLevel[world]', x=-256.43, y=77.00, z=-2515.57] died, message: 'Possessed Villager was shot by Pillager'
-[03Feb2025 00:17:42.799] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=40, y=71, z=-2692}
-[03Feb2025 00:22:13.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 5.998092244111035,-2.3703056042266724,-7.992755388601381
-[03Feb2025 00:22:13.020] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3329ms or 66 ticks
-[03Feb2025 00:24:17.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Dragonslayer]
-[03Feb2025 00:26:17.608] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2248ms or 44 ticks
-[03Feb2025 00:26:25.615] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[03Feb2025 00:26:25.618] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[03Feb2025 00:26:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Dragonslayer]
-[03Feb2025 00:27:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> z
-[03Feb2025 00:27:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> z
-[03Feb2025 00:27:39.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <niley> z
-[03Feb2025 00:32:16.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/65867, l='ServerLevel[world]', x=1685.83, y=70.62, z=-4281.33] died, message: 'Weaponsmith was slain by Ice Dragon'
-[03Feb2025 00:32:41.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/65835, l='ServerLevel[world]', x=1688.10, y=67.94, z=-4274.59] died, message: 'Weaponsmith was slain by Ice Dragon'
-[03Feb2025 00:32:49.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65836, l='ServerLevel[world]', x=1677.12, y=68.00, z=-4276.12] died, message: 'Villager was slain by Ice Dragon'
-[03Feb2025 00:35:26.973] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2182ms or 43 ticks
-[03Feb2025 00:36:36.855] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
-[03Feb2025 00:36:45.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 4.932314616028862,0.0,-8.804485252368977
-[03Feb2025 00:36:45.659] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5818ms or 116 ticks
-[03Feb2025 00:36:45.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5510ms or 110 ticks behind
-[03Feb2025 00:39:13.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! -10.10287494382419,0.0,-3.053776458149514
-[03Feb2025 00:39:13.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! -10.316348778550264,0.0,-4.076868135780387
-[03Feb2025 00:40:30.960] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
-[03Feb2025 00:40:32.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1829, y=58, z=-4847} BlockPos{x=1829, y=57, z=-4847}
-[03Feb2025 00:41:15.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
-[03Feb2025 00:41:15.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
-[03Feb2025 00:41:36.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:38875] logged in with entity id 72596 at (1876.5716842266622, 62.88888931274414, -4956.854850332285)
-[03Feb2025 00:41:36.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
-[03Feb2025 00:42:07.425] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
-[03Feb2025 00:42:32.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
-[03Feb2025 00:42:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
-[03Feb2025 00:43:17.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:56481] logged in with entity id 73167 at (2024.2125558183354, 63.0, -4972.809664368344)
-[03Feb2025 00:43:17.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
-[03Feb2025 00:43:32.094] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
-[03Feb2025 00:44:27.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2037, y=61, z=-4953} BlockPos{x=2038, y=62, z=-4953}
-[03Feb2025 00:45:32.736] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2424ms or 48 ticks
-[03Feb2025 00:45:46.834] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 8867 2 -7935 in 1s
-[03Feb2025 00:45:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has reached the goal [Horror of the Depths]
-[03Feb2025 00:46:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [The Journey Begins]
-[03Feb2025 00:47:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has completed the challenge [Free Willy]
-[03Feb2025 00:48:24.761] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[03Feb2025 00:49:27.749] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=2664, y=75, z=-5538}
-[03Feb2025 00:49:48.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! -6.729927638457411,-0.9215999984741217,7.4171456124950055
-[03Feb2025 00:50:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has reached the goal [Pure Imagination]
-[03Feb2025 00:50:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has reached the goal [Pure Imagination]
-[03Feb2025 00:52:15.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Yellow Brick Road]
-[03Feb2025 00:52:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Yellow Brick Road]
-[03Feb2025 00:52:43.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Unwrapped Candy]
-[03Feb2025 00:52:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Unwrapped Candy]
-[03Feb2025 00:53:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [I Found the Coin Slot]
-[03Feb2025 00:53:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Carbonated Swim]
-[03Feb2025 00:53:12.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [I Found the Coin Slot]
-[03Feb2025 00:54:13.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Oh Little Town of Gingerbread]
-[03Feb2025 00:55:14.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [You're a Monster]
-[03Feb2025 00:56:07.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Oh Little Town of Gingerbread]
-[03Feb2025 00:56:18.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
-[03Feb2025 00:56:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
-[03Feb2025 00:56:18.827] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Feb2025 00:56:43.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
-[03Feb2025 00:56:43.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
-[03Feb2025 00:58:07.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[03Feb2025 00:58:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03Feb2025 00:58:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03Feb2025 00:58:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03Feb2025 00:58:07.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03Feb2025 00:58:07.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[03Feb2025 00:58:07.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[03Feb2025 00:58:07.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03Feb2025 00:58:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[03Feb2025 00:58:07.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[03Feb2025 00:58:07.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[03Feb2025 00:58:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[03Feb2025 00:58:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Feb2025 00:58:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03Feb2025 00:58:08.245] [Server thread/INFO] [Framework/]: Unloading server configs...
-[03Feb2025 00:58:08.246] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[03Feb2025 00:58:08.249] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[03Feb2025 00:58:08.252] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Feb2025 01:01:48.116] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03Feb2025 01:01:48.120] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Feb2025 01:01:49.913] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Feb2025 01:01:49.971] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/legendary-octo-rotary-phone/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Feb2025 01:01:50.424] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-octo-rotary-phone/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Feb2025 01:01:50.425] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-octo-rotary-phone/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Feb2025 01:01:50.426] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-octo-rotary-phone/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Feb2025 01:01:50.428] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/legendary-octo-rotary-phone/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Feb2025 01:01:50.638] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[03Feb2025 01:01:53.842] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Feb2025 01:01:53.991] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
+[03Feb2025 01:01:54.067] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[03Feb2025 01:01:54.159] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[03Feb2025 01:01:54.162] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Feb2025 01:01:54.320] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Feb2025 01:01:54.363] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Feb2025 01:01:54.381] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[03Feb2025 01:01:54.393] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Feb2025 01:01:54.412] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Feb2025 01:01:54.421] [main/WARN] [mixin/]: Reference map 'wan_ancient_beasts.refmap.json' for wan_ancient_beasts.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Feb2025 01:01:54.424] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Feb2025 01:01:54.870] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[03Feb2025 01:01:54.870] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[03Feb2025 01:01:54.870] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[03Feb2025 01:01:54.960] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[03Feb2025 01:01:55.400] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[03Feb2025 01:01:55.401] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[03Feb2025 01:01:56.293] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03Feb2025 01:01:59.196] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[03Feb2025 01:02:02.854] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zfp000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Feb2025 01:02:03.638] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[03Feb2025 01:02:04.341] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
+[03Feb2025 01:02:04.342] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
+[03Feb2025 01:02:04.345] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
+[03Feb2025 01:02:04.346] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
+[03Feb2025 01:02:04.348] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
+[03Feb2025 01:02:04.351] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
+[03Feb2025 01:02:04.359] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
+[03Feb2025 01:02:04.377] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entities Types ...
+[03Feb2025 01:02:04.396] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
+[03Feb2025 01:02:04.400] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
+[03Feb2025 01:02:04.408] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
+[03Feb2025 01:02:04.429] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
+[03Feb2025 01:02:04.456] [modloading-worker-0/INFO] [Easy NPC/]: Registering Easy NPC common config ...
+[03Feb2025 01:02:04.460] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
+[03Feb2025 01:02:04.475] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[03Feb2025 01:02:04.489] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
+[03Feb2025 01:02:04.546] [modloading-worker-0/INFO] [Easy NPC/]: Registering Easy NPC client config ...
+[03Feb2025 01:02:05.238] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[03Feb2025 01:02:05.238] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[03Feb2025 01:02:05.870] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Feb2025 01:02:06.899] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[03Feb2025 01:02:06.907] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[03Feb2025 01:02:07.119] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@67e0fd6d on thread Thread[modloading-worker-0,5,main]
+[03Feb2025 01:02:07.131] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23248!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23248!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23248!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23248!/:com.obscuria]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23283!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23282!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[03Feb2025 01:02:07.147] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[03Feb2025 01:02:07.389] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[03Feb2025 01:02:07.422] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[03Feb2025 01:02:07.428] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03Feb2025 01:02:07.444] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03Feb2025 01:02:07.445] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03Feb2025 01:02:07.446] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03Feb2025 01:02:07.453] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03Feb2025 01:02:07.455] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03Feb2025 01:02:07.468] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03Feb2025 01:02:07.548] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Feb2025 01:02:07.548] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Feb2025 01:02:09.049] [modloading-worker-0/INFO] [Sherds API/]: Initializing Sherds API for Forge in a production environment...
+[03Feb2025 01:02:09.125] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Feb2025 01:02:09.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@41743ff4 has been registered twice for the same name treechop:chop_wood.
+[03Feb2025 01:02:17.431] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[03Feb2025 01:02:17.431] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Feb2025 01:02:17.431] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[03Feb2025 01:02:17.432] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[03Feb2025 01:02:17.432] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / bakery:wandering_baker] was not realized!
+[03Feb2025 01:02:17.433] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Feb2025 01:02:17.433] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[03Feb2025 01:02:17.433] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[03Feb2025 01:02:17.435] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Feb2025 01:02:17.435] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:mule] was not realized!
+[03Feb2025 01:02:17.435] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / vinery:wandering_winemaker] was not realized!
+[03Feb2025 01:02:17.438] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Feb2025 01:02:17.558] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Feb2025 01:02:18.629] [main/WARN] [Easy NPC/]: [Custom Entity Data] Please define a custom index instead of using the auto-generated.
+[03Feb2025 01:02:18.634] [main/INFO] [Easy NPC/]: Register data serializers ...
+[03Feb2025 01:02:18.635] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.635] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[03Feb2025 01:02:18.636] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[03Feb2025 01:02:18.636] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.640] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.641] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.641] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.642] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[03Feb2025 01:02:18.642] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.643] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[03Feb2025 01:02:18.643] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.644] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[03Feb2025 01:02:18.644] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.644] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[03Feb2025 01:02:18.645] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.645] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[03Feb2025 01:02:18.646] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.646] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[03Feb2025 01:02:18.647] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[03Feb2025 01:02:18.647] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[03Feb2025 01:02:18.648] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[03Feb2025 01:02:18.648] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.649] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[03Feb2025 01:02:18.649] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.649] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[03Feb2025 01:02:18.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[03Feb2025 01:02:18.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[03Feb2025 01:02:18.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[03Feb2025 01:02:18.652] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[03Feb2025 01:02:18.652] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[03Feb2025 01:02:18.652] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
+[03Feb2025 01:02:18.653] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[03Feb2025 01:02:18.678] [main/INFO] [Easy NPC/]: Register model data serializers for ...
+[03Feb2025 01:02:18.679] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
+[03Feb2025 01:02:18.679] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.680] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.680] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.680] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.681] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.681] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.682] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.682] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.683] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[03Feb2025 01:02:18.683] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
+[03Feb2025 01:02:18.683] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[03Feb2025 01:02:18.684] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[03Feb2025 01:02:18.685] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[03Feb2025 01:02:18.685] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[03Feb2025 01:02:18.686] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[03Feb2025 01:02:18.686] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[03Feb2025 01:02:18.686] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[03Feb2025 01:02:18.687] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
+[03Feb2025 01:02:18.687] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.688] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.688] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.689] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.689] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.690] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.690] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.692] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[03Feb2025 01:02:18.692] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
+[03Feb2025 01:02:18.693] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.693] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.694] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.694] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.695] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.695] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.696] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.696] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.696] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.697] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.697] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[03Feb2025 01:02:18.698] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
+[03Feb2025 01:02:18.698] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[03Feb2025 01:02:18.699] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[03Feb2025 01:02:18.699] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[03Feb2025 01:02:18.782] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
+[03Feb2025 01:02:18.783] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
+[03Feb2025 01:02:18.809] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[03Feb2025 01:02:18.823] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[03Feb2025 01:02:19.081] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@2b8e215f with version 21 ...
+[03Feb2025 01:02:19.585] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[03Feb2025 01:02:19.593] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[03Feb2025 01:02:19.601] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[03Feb2025 01:02:19.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[03Feb2025 01:02:20.157] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Feb2025 01:02:20.157] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Feb2025 01:02:20.158] [main/INFO] [terrablender/]: Registered region nyctophobia:biome_provider to index 1 for type OVERWORLD
+[03Feb2025 01:02:20.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[03Feb2025 01:02:20.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[03Feb2025 01:02:20.217] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[03Feb2025 01:02:20.217] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[03Feb2025 01:02:20.218] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[03Feb2025 01:02:20.219] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[03Feb2025 01:02:20.378] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[03Feb2025 01:02:20.427] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Feb2025 01:02:20.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[03Feb2025 01:02:20.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[03Feb2025 01:02:20.456] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 2 for type OVERWORLD
+[03Feb2025 01:02:20.456] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 3 for type OVERWORLD
+[03Feb2025 01:02:20.456] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 4 for type OVERWORLD
+[03Feb2025 01:02:20.456] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[03Feb2025 01:02:20.456] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[03Feb2025 01:02:20.488] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[03Feb2025 01:02:20.497] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[03Feb2025 01:02:20.497] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[03Feb2025 01:02:20.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.14 Target: 1.20.1-1.0.19
+[03Feb2025 01:02:20.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[03Feb2025 01:02:20.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[03Feb2025 01:02:20.970] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[03Feb2025 01:02:21.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.5 Target: 1.0.8
+[03Feb2025 01:02:21.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[03Feb2025 01:02:21.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
+[03Feb2025 01:02:21.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[03Feb2025 01:02:22.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[03Feb2025 01:02:22.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[03Feb2025 01:02:22.311] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23282!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23282!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[03Feb2025 01:02:22.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Feb2025 01:02:22.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[03Feb2025 01:02:22.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Feb2025 01:02:22.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[03Feb2025 01:02:22.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[03Feb2025 01:02:22.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.21 Target: 1.20.1-1.0.23
+[03Feb2025 01:02:22.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sherdsapi] Starting version check at https://api.modrinth.com/updates/sherdsapi/forge_updates.json
+[03Feb2025 01:02:22.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sherdsapi] Found status: UP_TO_DATE Current: 4.0.4 Target: null
+[03Feb2025 01:02:22.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[03Feb2025 01:02:22.779] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23282!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23282!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[03Feb2025 01:02:28.553] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Feb2025 01:02:34.985] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/legendary-octo-rotary-phone/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/assets/.mcassetsroot' uses unexpected schema
+[03Feb2025 01:02:34.986] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/legendary-octo-rotary-phone/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/data/.mcassetsroot' uses unexpected schema
+[03Feb2025 01:02:37.080] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
+[03Feb2025 01:02:37.152] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Feb2025 01:02:37.215] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:ignore_vibrations_sneaking as it is missing following references: wan_ancient_beasts:eater (from wab-1.20.1-1.0.2.jar)
+[03Feb2025 01:02:37.415] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:grapes as it is missing following references: minecraft:red_grape (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:white_grape (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:savanna_grapes_red (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:savanna_grapes_white (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:taiga_grapes_red (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:taiga_grapes_white (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:jungle_grapes_red (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:jungle_grapes_white (from letsdo-vinery-forge-1.4.28.jar)
+[03Feb2025 01:02:37.422] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:grapes as it is missing following references: minecraft:red_grape (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:white_grape (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:savanna_grapes_red (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:savanna_grapes_white (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:taiga_grapes_red (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:taiga_grapes_white (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:jungle_grapes_red (from letsdo-vinery-forge-1.4.28.jar), 
+	minecraft:jungle_grapes_white (from letsdo-vinery-forge-1.4.28.jar)
+[03Feb2025 01:02:38.243] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[03Feb2025 01:02:39.305] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[03Feb2025 01:02:41.758] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Feb2025 01:02:41.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[03Feb2025 01:02:41.860] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[03Feb2025 01:02:41.926] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:slashblade_tofu_ishi
+com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at mods.flammpfeil.slashblade.recipe.SlashBladeShapedRecipeSerializer.m_6729_(SlashBladeShapedRecipeSerializer.java:26) ~[SlashBladeResharped-1.20.1-0.7.3.jar%23261!/:0.7.3]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Feb2025 01:02:41.953] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[03Feb2025 01:02:41.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[03Feb2025 01:02:41.991] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Feb2025 01:02:42.025] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[03Feb2025 01:02:42.064] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[03Feb2025 01:02:42.064] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:tofu_diamond_blade
+com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofu_upgrade_smithing_template'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.SmithingTransformRecipe$Serializer.m_6729_(SmithingTransformRecipe.java:73) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.SmithingTransformRecipe$Serializer.m_6729_(SmithingTransformRecipe.java:71) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Feb2025 01:02:42.066] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[03Feb2025 01:02:42.075] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[03Feb2025 01:02:42.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe slashblade_addon:slashblade_tofu_metal
+com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at mods.flammpfeil.slashblade.recipe.SlashBladeShapedRecipeSerializer.m_6729_(SlashBladeShapedRecipeSerializer.java:26) ~[SlashBladeResharped-1.20.1-0.7.3.jar%23261!/:0.7.3]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Feb2025 01:02:42.084] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 33 recipes
+[03Feb2025 01:02:42.164] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement slashblade_addon:recipes/combat/tofu_diamond_blade: Unknown item id 'slashblade_addon:slashblade_tofu_metal'
+[03Feb2025 01:02:42.251] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement beautify:progression/candelabra: Expected item to be an item, was unknown string 'beautify:lamp_candleabra'
+[03Feb2025 01:02:42.272] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4768 advancements
+[03Feb2025 01:02:42.283] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[03Feb2025 01:02:42.283] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
+[03Feb2025 01:02:42.284] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[03Feb2025 01:02:42.341] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[03Feb2025 01:02:42.348] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[03Feb2025 01:02:42.349] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[03Feb2025 01:02:42.350] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[03Feb2025 01:02:42.422] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[03Feb2025 01:02:48.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Feb2025 01:02:48.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Feb2025 01:02:48.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Feb2025 01:02:48.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Feb2025 01:02:48.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Feb2025 01:02:48.528] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Feb2025 01:02:48.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Feb2025 01:02:48.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Feb2025 01:02:48.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Feb2025 01:02:48.631] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Feb2025 01:02:48.652] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[03Feb2025 01:02:48.654] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[03Feb2025 01:02:48.654] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Feb2025 01:02:48.655] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Feb2025 01:02:48.657] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Feb2025 01:02:49.021] [Server thread/INFO] [Framework/]: Loading server configs...
+[03Feb2025 01:02:49.629] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Feb2025 01:02:49.630] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Feb2025 01:02:49.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Feb2025 01:02:57.036] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Feb2025 01:02:57.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Feb2025 01:03:00.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:00.080] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:00.084] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:00.084] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:00.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:00.228] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:00.791] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:01.368] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:01.727] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:02.872] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:02.872] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:03.440] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Feb2025 01:03:03.727] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[03Feb2025 01:03:04.272] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6546 ms
+[03Feb2025 01:03:04.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.629s)! For help, type "help"
+[03Feb2025 01:03:04.355] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Feb2025 01:03:04.399] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[03Feb2025 01:03:04.399] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[03Feb2025 01:04:02.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:45641] logged in with entity id 61 at (2487.3012209219783, -46.0, -5843.215536931494)
+[03Feb2025 01:04:02.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
+[03Feb2025 01:04:05.037] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2728ms or 54 ticks
+[03Feb2025 01:04:05.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[03Feb2025 01:06:19.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[03Feb2025 01:06:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[03Feb2025 01:07:21.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:47597] logged in with entity id 759 at (2514.5, -25.924, -5784.5)
+[03Feb2025 01:07:21.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[03Feb2025 01:07:21.251] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
+[03Feb2025 01:07:34.679] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 01:07:46.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:34695] logged in with entity id 1344 at (2487.3012209219783, -46.0, -5843.215536931494)
+[03Feb2025 01:07:46.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
+[03Feb2025 01:07:53.045] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 01:08:07.100] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2400ms or 48 ticks
+[03Feb2025 01:08:22.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [You're a Monster]
+[03Feb2025 01:08:46.860] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2072ms or 41 ticks
+[03Feb2025 01:09:01.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[03Feb2025 01:09:12.485] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2021ms or 40 ticks
+[03Feb2025 01:10:02.375] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2039ms or 40 ticks
+[03Feb2025 01:10:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Ghost! Ghost! Toast?]
+[03Feb2025 01:10:44.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Caniac No More]
+[03Feb2025 01:12:09.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [The Dark (Chocolate) Tower]
+[03Feb2025 01:12:27.804] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2067ms or 41 ticks
+[03Feb2025 01:15:05.250] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=2511, y=83, z=-5638}
+[03Feb2025 01:18:08.957] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2233ms or 44 ticks
+[03Feb2025 01:19:44.301] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Feb2025 01:19:44.305] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Feb2025 01:20:12.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! -8.439227331290567,0.0,-6.142596885511011
+[03Feb2025 01:22:47.195] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2058ms or 41 ticks
+[03Feb2025 01:23:03.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Sunken City]
+[03Feb2025 01:23:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Sunken City]
+[03Feb2025 01:23:45.874] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2338ms or 46 ticks
+[03Feb2025 01:25:30.113] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
+[03Feb2025 01:28:45.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[03Feb2025 01:28:45.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[03Feb2025 01:31:01.222] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 15825ms or 316 ticks
+[03Feb2025 01:31:01.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14773ms or 295 ticks behind
+[03Feb2025 01:31:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [A Moment in Time]
+[03Feb2025 01:31:30.954] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2818ms or 56 ticks
+[03Feb2025 01:32:20.660] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2588ms or 51 ticks
+[03Feb2025 01:32:39.535] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2020ms or 40 ticks
+[03Feb2025 01:36:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was exterminated by Deepling Warlock 's laser
+[03Feb2025 01:36:55.636] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 01:37:43.579] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3030ms or 60 ticks
+[03Feb2025 01:37:44.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[03Feb2025 01:47:37.102] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2062ms or 41 ticks
+[03Feb2025 01:48:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was slain by Tide Specter
+[03Feb2025 01:48:41.783] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 01:53:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz drowned
+[03Feb2025 01:53:22.632] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 01:53:23.789] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2040ms or 40 ticks
+[03Feb2025 01:53:53.949] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2004, y=62, z=-992}
+[03Feb2025 02:10:47.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niley[/127.51.125.227:50599] logged in with entity id 27085 at (3432.6573829850317, 30.5, -6315.300000011921)
+[03Feb2025 02:10:47.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley joined the game
+[03Feb2025 02:10:56.415] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 02:11:58.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 3.508209844065277,-17.0,1.311562472168589
+[03Feb2025 02:11:59.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz was slain by Deepling Brute
+[03Feb2025 02:12:02.067] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 02:12:05.570] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2045ms or 40 ticks
+[03Feb2025 02:12:27.901] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/28059, l='ServerLevel[world]', x=3479.50, y=40.00, z=-6368.50]
+[03Feb2025 02:12:56.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley fell from a high place
+[03Feb2025 02:12:59.791] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 02:13:53.504] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
+[03Feb2025 02:19:39.737] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2516ms or 50 ticks
+[03Feb2025 02:19:39.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[03Feb2025 02:19:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Stealer of Souls]
+[03Feb2025 02:22:22.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 0.6610927010660816,1.2440181323317354,10.045543618652118
+[03Feb2025 02:27:19.549] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=3423, y=73, z=-6293}
+[03Feb2025 02:28:01.022] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2088ms or 41 ticks
+[03Feb2025 02:28:49.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Who is Cutting Onions?]
+[03Feb2025 02:33:11.501] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[03Feb2025 02:33:13.078] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2156ms or 43 ticks
+[03Feb2025 02:37:05.899] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=3423, y=35, z=-6292}
+[03Feb2025 02:37:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley was slain by emizz
+[03Feb2025 02:37:59.291] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2118ms or 42 ticks
+[03Feb2025 02:37:59.494] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 02:39:00.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley was slain by emizz
+[03Feb2025 02:39:02.924] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 02:41:07.472] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2234ms or 44 ticks
+[03Feb2025 02:47:07.999] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=3419, y=84, z=-6323}
+[03Feb2025 02:48:25.796] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2125ms or 42 ticks
+[03Feb2025 02:50:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has completed the challenge [A Multidimensional Predator]
+[03Feb2025 02:51:44.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[03Feb2025 02:51:44.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[03Feb2025 02:52:10.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:39145] logged in with entity id 43915 at (3412.5620973496025, 22.88888931274414, -6322.21514662267)
+[03Feb2025 02:52:10.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[03Feb2025 02:52:23.638] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 02:55:25.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 7.5831295199213855,0.0,6.771335693044421
+[03Feb2025 02:55:25.300] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2400ms or 48 ticks
+[03Feb2025 02:55:25.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 02:56:05.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 6.975482180182553,-0.9848126871719529,7.1099977252652025
+[03Feb2025 02:56:05.556] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[03Feb2025 02:56:49.143] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2024ms or 40 ticks
+[03Feb2025 02:57:07.179] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2397ms or 47 ticks
+[03Feb2025 02:57:07.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[03Feb2025 02:57:08.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 0.42663170697687747,3.0,9.60808951935087
+[03Feb2025 02:57:25.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 5.867903322859092,0.0,8.217756351735261
+[03Feb2025 02:57:25.586] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2120ms or 42 ticks
+[03Feb2025 02:57:26.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
+[03Feb2025 02:57:43.592] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2047ms or 40 ticks
+[03Feb2025 02:59:30.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! -7.954479063470444,0.0,-7.602799800556568
+[03Feb2025 02:59:31.536] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2380ms or 47 ticks
+[03Feb2025 03:02:43.599] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=3426, y=84, z=-6307}
+[03Feb2025 03:06:53.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has completed the challenge [A Multidimensional Predator]
+[03Feb2025 03:11:21.810] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2256ms or 45 ticks
+[03Feb2025 03:12:07.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved wrongly!
+[03Feb2025 03:12:16.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 4.709494915374307,7.96404082455922,-4.865997462405176
+[03Feb2025 03:12:16.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 1.528260633058835,-10.161741378470836,-2.399213149791649
+[03Feb2025 03:12:16.462] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2046ms or 40 ticks
+[03Feb2025 03:13:25.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [It's an Emu!!!]
+[03Feb2025 03:13:32.578] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2080ms or 41 ticks
+[03Feb2025 03:13:58.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Begun, The Emu War Has]
+[03Feb2025 03:13:59.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/61439, l='ServerLevel[world]', x=4012.79, y=63.00, z=-7398.92] died, message: 'Possessed Villager was killed by niley using magic'
+[03Feb2025 03:15:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Wingin' It]
+[03Feb2025 03:16:05.901] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=4573, y=71, z=-7818}
+[03Feb2025 03:18:32.786] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2178ms or 43 ticks
+[03Feb2025 03:19:47.728] [Worker-Main-23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Feb2025 03:20:57.060] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[03Feb2025 03:23:03.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 9.907320026677553,0.0,-3.1866420898131764
+[03Feb2025 03:23:03.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 9.021379486210208,0.0,5.314840325955629
+[03Feb2025 03:23:13.494] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[03Feb2025 03:29:11.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[03Feb2025 03:29:11.799] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=6809, y=68, z=-8193}
+[03Feb2025 03:30:45.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/73910, l='ServerLevel[world]', x=6834.70, y=88.25, z=-8016.26] died, message: 'Possessed Villager was slain by Fire Dragon'
+[03Feb2025 03:31:44.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[03Feb2025 03:31:44.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[03Feb2025 03:31:44.585] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Feb2025 03:31:53.442] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2525ms or 50 ticks
+[03Feb2025 03:32:35.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:44555] logged in with entity id 74452 at (6854.4911788599575, 96.0, -8177.995884606577)
+[03Feb2025 03:32:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[03Feb2025 03:32:49.376] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 03:33:14.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70918, l='ServerLevel[world]', x=6816.34, y=86.62, z=-7994.68] died, message: 'Villager was slain by Fire Dragon'
+[03Feb2025 03:33:26.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved too quickly! 10.30705545003184,0.0,0.7639201814463377
+[03Feb2025 03:36:19.778] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2017ms or 40 ticks
+[03Feb2025 03:36:24.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 9.899212138954681,-2.233632006042484,-1.2266215746822127
+[03Feb2025 03:36:30.156] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:120) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.commands.arguments.blocks.BlockInput.m_114670_(BlockInput.java:68) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.commands.FillCommand.m_137385_(FillCommand.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.commands.FillCommand.m_137400_(FillCommand.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.commands.Commands.m_230957_(Commands.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.mcreator.deathangels.procedures.SoundTransmittedEffectStartedappliedProcedure.execute(SoundTransmittedEffectStartedappliedProcedure.java:27) ~[death_angels-1.2.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.deathangels.potion.SoundTransmittedMobEffect.m_6385_(SoundTransmittedMobEffect.java:19) ~[death_angels-1.2.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_141973_(LivingEntity.java:1012) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_147207_(LivingEntity.java:935) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_7292_(LivingEntity.java:921) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.mcreator.deathangels.procedures.SoundEffectEffectStartedappliedProcedure.execute(SoundEffectEffectStartedappliedProcedure.java:81) ~[death_angels-1.2.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.deathangels.potion.SoundEffectMobEffect.m_6385_(SoundEffectMobEffect.java:19) ~[death_angels-1.2.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_141973_(LivingEntity.java:1012) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_141973_(ServerPlayer.java:1176) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_147207_(LivingEntity.java:935) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_7292_(LivingEntity.java:921) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.mcreator.deathangels.procedures.PlayerSprintProcedure.execute(PlayerSprintProcedure.java:34) ~[death_angels-1.2.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.deathangels.procedures.PlayerSprintProcedure.onPlayerTick(PlayerSprintProcedure.java:21) ~[death_angels-1.2.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.deathangels.procedures.__PlayerSprintProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[death_angels-1.2.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23286!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Feb2025 03:36:31.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! 10.288644819937872,0.7841056544612712,-0.908818645503743
+[03Feb2025 03:38:15.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has reached the goal [Beyond the Sea]
+[03Feb2025 03:38:31.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has reached the goal [Beyond the Sea]
+[03Feb2025 03:38:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Shell City]
+[03Feb2025 03:39:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has reached the goal [Captain Nemo]
+[03Feb2025 03:39:54.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Shell City]
+[03Feb2025 03:41:02.645] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2074ms or 41 ticks
+[03Feb2025 03:41:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has reached the goal [Captain Nemo]
+[03Feb2025 03:41:16.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [The Shadow Over Mine's Craft]
+[03Feb2025 03:44:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Bring Forth The Mollusk]
+[03Feb2025 03:48:18.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [The Shadow Over Mine's Craft]
+[03Feb2025 03:51:38.111] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2436ms or 48 ticks
+[03Feb2025 03:53:41.949] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=8227, y=79, z=-7764}
+[03Feb2025 03:54:28.779] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2112ms or 42 ticks
+[03Feb2025 03:57:35.602] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2041ms or 40 ticks
+[03Feb2025 04:06:56.794] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3104ms or 62 ticks
+[03Feb2025 04:08:55.142] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2156ms or 43 ticks
+[03Feb2025 04:09:10.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Feb2025 04:09:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Buff Out Those Scratches]
+[03Feb2025 04:09:21.711] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
+[03Feb2025 04:10:14.868] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2268ms or 45 ticks
+[03Feb2025 04:10:44.954] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2283ms or 45 ticks
+[03Feb2025 04:15:33.749] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2006, y=63, z=-975}
+[03Feb2025 04:16:04.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley was slain by emizz
+[03Feb2025 04:16:06.324] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 04:16:44.544] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2145ms or 42 ticks
+[03Feb2025 04:18:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley withered away whilst fighting emizz
+[03Feb2025 04:18:28.749] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 04:20:55.747] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 04:20:55.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley moved too quickly! -4.667771835437861,5.00779753217455,7.541869128612461
+[03Feb2025 04:20:55.809] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4085ms or 81 ticks
+[03Feb2025 04:20:55.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3560ms or 71 ticks behind
+[03Feb2025 04:21:45.771] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 04:26:57.722] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.
+[03Feb2025 04:26:58.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[03Feb2025 04:27:07.466] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2057ms or 41 ticks
+[03Feb2025 04:27:07.660] [Server thread/INFO] [do_a_barrel_roll/]: Client of niley accepted server config.
+[03Feb2025 04:28:07.349] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2006, y=63, z=-968}
+[03Feb2025 04:30:31.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley has made the advancement [Withering Heights]
+[03Feb2025 04:30:31.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz has made the advancement [Withering Heights]
+[03Feb2025 04:35:05.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz moved wrongly!
+[03Feb2025 04:35:41.749] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2113, y=62, z=-1053}
+[03Feb2025 04:44:50.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niley lost connection: Disconnected
+[03Feb2025 04:44:50.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niley left the game
+[03Feb2025 04:45:01.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Disconnected
+[03Feb2025 04:45:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[03Feb2025 04:45:39.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Feb2025 04:45:39.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[03Feb2025 04:45:42.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Feb2025 04:45:42.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Feb2025 04:45:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Feb2025 04:45:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Feb2025 04:45:42.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Feb2025 04:45:42.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[03Feb2025 04:45:42.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[03Feb2025 04:45:42.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Feb2025 04:45:42.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Feb2025 04:45:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03Feb2025 04:45:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Feb2025 04:45:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Feb2025 04:45:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03Feb2025 04:45:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[03Feb2025 04:45:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Feb2025 04:45:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Feb2025 04:45:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03Feb2025 04:45:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Feb2025 04:45:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Feb2025 04:45:43.208] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03Feb2025 04:45:43.209] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[03Feb2025 04:45:43.212] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[03Feb2025 04:45:43.215] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

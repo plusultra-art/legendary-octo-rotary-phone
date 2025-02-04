@@ -696,3 +696,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [04Feb2025 15:32:20.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a84161f[id=<null>,name=santiesp,properties={},legacy=false] (/127.167.94.33:58817) lost connection: Connection closed - mismatched mod channel list
 [04Feb2025 15:32:28.126] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19bb1b46[id=<null>,name=santiesp,properties={},legacy=false] (/127.167.94.33:55465) lost connection: Disconnected
 [04Feb2025 15:35:52.374] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2081ms or 41 ticks
+[04Feb2025 15:45:12.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sFACUsN6s lost connection: Disconnected
+[04Feb2025 15:45:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s left the game
+[04Feb2025 15:47:08.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sFACUsN6s[/127.151.190.51:52463] logged in with entity id 3981 at (-929.162270072484, 40.0, 695.2874389902274)
+[04Feb2025 15:47:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s joined the game
+[04Feb2025 15:47:22.917] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.

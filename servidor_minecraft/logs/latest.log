@@ -701,3 +701,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [04Feb2025 15:47:08.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sFACUsN6s[/127.151.190.51:52463] logged in with entity id 3981 at (-929.162270072484, 40.0, 695.2874389902274)
 [04Feb2025 15:47:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s joined the game
 [04Feb2025 15:47:22.917] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[04Feb2025 15:56:56.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiesp[/127.167.94.33:44337] logged in with entity id 6623 at (-933.1997447366755, 44.0, 671.2065952519464)
+[04Feb2025 15:56:56.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp joined the game
+[04Feb2025 15:57:09.945] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[04Feb2025 15:57:26.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Disconnected
+[04Feb2025 15:57:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game
+[04Feb2025 15:57:27.037] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 15:58:25.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiesp[/127.167.94.33:54001] logged in with entity id 7097 at (-933.1997447366755, 44.0, 671.2065952519464)
+[04Feb2025 15:58:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp joined the game
+[04Feb2025 15:58:25.935] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2025ms or 40 ticks
+[04Feb2025 15:58:44.027] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[04Feb2025 15:58:55.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiesp lost connection: Timed out
+[04Feb2025 15:58:55.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp left the game

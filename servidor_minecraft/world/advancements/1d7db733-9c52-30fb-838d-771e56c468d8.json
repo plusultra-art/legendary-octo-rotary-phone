@@ -109,6 +109,7 @@
       "snowblossom_grove": "2024-12-15 01:10:23 +0000",
       "rocky_shrubland": "2024-12-15 04:26:03 +0000",
       "scrubland": "2024-12-19 01:03:52 +0000",
+      "lush_savanna": "2025-02-07 19:20:31 +0000",
       "highland": "2024-12-15 18:28:06 +0000",
       "jade_cliffs": "2024-12-14 23:52:09 +0000",
       "clover_patch": "2024-12-14 23:50:51 +0000",
@@ -1672,6 +1673,7 @@
       "minecraft:lush_caves": "2025-01-31 21:48:11 +0000",
       "minecraft:deep_cold_ocean": "2024-12-15 03:08:13 +0000",
       "minecraft:frozen_ocean": "2024-12-15 02:00:29 +0000",
+      "minecraft:desert": "2025-02-07 19:21:14 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-15 02:18:12 +0000",
       "minecraft:ocean": "2024-12-15 00:03:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-15 03:51:03 +0000",
@@ -12438,6 +12440,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-02-03 04:32:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-07 19:22:45 +0000"
     },
     "done": true
   },

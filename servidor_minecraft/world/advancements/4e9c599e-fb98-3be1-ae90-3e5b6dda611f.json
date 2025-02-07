@@ -7617,6 +7617,12 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-02-07 19:18:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/canopy_sign": {
     "criteria": {
       "has_item": "2025-02-07 19:10:35 +0000"
@@ -7653,15 +7659,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-02-07 19:18:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-07 18:40:49 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-02-07 19:18:43 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/canopy_chest": {
     "criteria": {
       "has_item": "2025-02-07 19:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-07 19:18:12 +0000"
     },
     "done": true
   },
@@ -7683,9 +7707,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 19:18:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-02-07 19:18:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill2": {
+    "criteria": {
+      "redcap": "2025-02-07 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "slime_beetle": "2025-02-07 19:18:12 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/canopy_slab": {
     "criteria": {
       "has_item": "2025-02-07 19:10:35 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-02-07 19:18:57 +0000"
     },
     "done": true
   },
@@ -7701,9 +7755,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-07 19:18:12 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/canopy_bookshelf": {
     "criteria": {
       "has_item": "2025-02-07 19:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-07 19:18:12 +0000"
     },
     "done": true
   },
@@ -7731,9 +7797,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 19:18:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
     "criteria": {
       "has_item": "2025-02-07 19:10:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-02-07 19:18:43 +0000"
     },
     "done": true
   },

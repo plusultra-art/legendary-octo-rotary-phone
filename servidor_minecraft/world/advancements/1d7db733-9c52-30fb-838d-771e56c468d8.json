@@ -12473,6 +12473,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/magnet": {
+    "criteria": {
+      "azure": "2025-02-07 19:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-02-07 18:30:46 +0000"
@@ -12491,9 +12497,22 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2025-02-07 19:47:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-02-07 19:08:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-02-07 19:39:25 +0000",
+      "azure": "2025-02-07 19:37:43 +0000"
     },
     "done": true
   },

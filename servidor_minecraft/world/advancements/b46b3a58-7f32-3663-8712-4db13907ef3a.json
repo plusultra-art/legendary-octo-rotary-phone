@@ -9584,6 +9584,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-02-07 19:44:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
     "criteria": {
       "has_deepslate": "2025-02-07 19:30:23 +0000"
@@ -9605,6 +9611,19 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-02-07 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-02-07 19:43:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-02-07 19:42:35 +0000",
+      "azure": "2025-02-07 19:37:39 +0000"
     },
     "done": true
   },

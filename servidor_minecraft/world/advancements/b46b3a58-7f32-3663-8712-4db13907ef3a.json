@@ -9578,6 +9578,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-07 20:06:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-07 19:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-07 20:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-07 20:06:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-02-07 20:07:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/deepslate_corner_trim": {
     "criteria": {
       "has_deepslate_corner_trim": "2025-02-07 19:30:23 +0000"
@@ -9590,11 +9620,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-07 20:06:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
     "criteria": {
       "has_deepslate": "2025-02-07 19:30:23 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-02-07 20:07:03 +0000",
+      "boots": "2025-02-07 20:07:04 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/deepslate_pillar_trim": {
     "criteria": {
@@ -9602,9 +9645,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-02-07 20:14:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
       "discover": "2025-02-07 19:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-07 20:06:48 +0000"
     },
     "done": true
   },
@@ -9619,6 +9674,12 @@
       "limestone": "2025-02-07 19:43:38 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-07 20:07:07 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {

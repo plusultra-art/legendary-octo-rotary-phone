@@ -130,6 +130,7 @@
       "lush_desert": "2025-01-30 22:20:58 +0000",
       "redwood_forest": "2024-12-15 00:01:55 +0000",
       "seasonal_orchard": "2025-01-31 21:30:18 +0000",
+      "dune_beach": "2025-02-07 20:24:13 +0000",
       "seasonal_forest": "2024-12-16 17:02:19 +0000",
       "auroral_garden": "2024-12-15 01:58:44 +0000",
       "volcano": "2024-12-19 00:51:44 +0000",
@@ -12449,6 +12450,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-02-07 20:17:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-02-07 20:09:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-02-07 19:22:45 +0000"
@@ -12467,9 +12480,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-02-07 20:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-02-07 18:25:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-02-07 20:09:44 +0000"
     },
     "done": true
   },
@@ -12485,9 +12510,23 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-02-07 20:21:56 +0000",
+      "trickor_treat_4": "2025-02-07 20:22:20 +0000",
+      "trickor_treat_7": "2025-02-07 20:22:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-02-07 18:30:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-07 20:09:44 +0000"
     },
     "done": true
   },
@@ -12512,6 +12551,18 @@
   "alexscaves:alexscaves/telecore": {
     "criteria": {
       "limestone": "2025-02-07 19:52:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-02-07 20:17:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-02-07 20:09:44 +0000"
     },
     "done": true
   },

@@ -892,3 +892,235 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [07Feb2025 17:39:15.411] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2108ms or 42 ticks
 [07Feb2025 17:39:23.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [07Feb2025 17:40:04.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[07Feb2025 17:40:33.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Feb2025 17:40:42.634] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2088ms or 41 ticks
+[07Feb2025 17:40:59.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10415ms or 208 ticks behind
+[07Feb2025 17:41:02.335] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2117ms or 42 ticks
+[07Feb2025 17:41:17.861] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2112ms or 42 ticks
+[07Feb2025 17:41:23.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9507ms or 190 ticks behind
+[07Feb2025 17:41:36.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> desaparecop
+[07Feb2025 17:41:39.249] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2085ms or 41 ticks
+[07Feb2025 17:41:47.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8605ms or 172 ticks behind
+[07Feb2025 17:41:47.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> se hace invisible
+[07Feb2025 17:41:57.293] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
+[07Feb2025 17:42:14.546] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2012ms or 40 ticks
+[07Feb2025 17:42:17.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15021ms or 300 ticks behind
+[07Feb2025 17:42:30.190] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2062ms or 41 ticks
+[07Feb2025 17:42:48.814] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2034ms or 40 ticks
+[07Feb2025 17:42:50.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17851ms or 357 ticks behind
+[07Feb2025 17:42:52.650] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-2242, y=66, z=-1052}
+[07Feb2025 17:43:06.276] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2092ms or 41 ticks
+[07Feb2025 17:43:21.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16299ms or 325 ticks behind
+[07Feb2025 17:43:40.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4435ms or 88 ticks behind
+[07Feb2025 17:43:47.051] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2104ms or 42 ticks
+[07Feb2025 17:44:02.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6668ms or 133 ticks behind
+[07Feb2025 17:44:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> me muero
+[07Feb2025 17:44:20.945] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2007ms or 40 ticks
+[07Feb2025 17:44:23.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6228ms or 124 ticks behind
+[07Feb2025 17:44:41.762] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2105ms or 42 ticks
+[07Feb2025 17:44:46.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7370ms or 147 ticks behind
+[07Feb2025 17:45:06.029] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2112ms or 42 ticks
+[07Feb2025 17:45:06.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5991ms or 119 ticks behind
+[07Feb2025 17:45:30.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8802ms or 176 ticks behind
+[07Feb2025 17:45:35.186] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2108ms or 42 ticks
+[07Feb2025 17:45:52.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6307ms or 126 ticks behind
+[07Feb2025 17:46:12.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5549ms or 110 ticks behind
+[07Feb2025 17:46:33.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6250ms or 125 ticks behind
+[07Feb2025 17:46:52.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
+[07Feb2025 17:47:11.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Feb2025 17:47:15.316] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2112ms or 42 ticks
+[07Feb2025 17:47:28.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[07Feb2025 17:47:50.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Feb2025 17:47:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s withered away whilst fighting Wither Skeleton
+[07Feb2025 17:48:02.586] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3608ms or 72 ticks
+[07Feb2025 17:48:02.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sFACUsN6s lost connection: Disconnected
+[07Feb2025 17:48:02.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s left the game
+[07Feb2025 17:48:10.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5249ms or 104 ticks behind
+[07Feb2025 17:48:34.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Feb2025 17:48:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> te espero facu
+[07Feb2025 17:49:03.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sFACUsN6s[/127.151.190.51:45121] logged in with entity id 31165 at (-927.5, 40.0, 683.5)
+[07Feb2025 17:49:04.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s joined the game
+[07Feb2025 17:49:04.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Feb2025 17:49:17.857] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:49:22.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2750ms or 55 ticks behind
+[07Feb2025 17:49:26.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp was slain by Wither Skeleton
+[07Feb2025 17:49:28.718] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[07Feb2025 17:49:40.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
+[07Feb2025 17:49:41.902] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[07Feb2025 17:49:54.000] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:49:54.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 0BlackGray0 moved too quickly! 9.658504687986351,-1.1754232959521005,3.046177813252143
+[07Feb2025 17:49:58.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[07Feb2025 17:50:09.789] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[07Feb2025 17:50:16.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[07Feb2025 17:50:58.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp was slain by Wither Skeleton
+[07Feb2025 17:51:01.413] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2365ms or 47 ticks
+[07Feb2025 17:51:01.756] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[07Feb2025 17:51:02.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s was caught off guard and slashed by a lurking Death Angel
+[07Feb2025 17:51:04.530] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:51:27.860] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
+[07Feb2025 17:51:39.914] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:51:41.348] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-565, y=62, z=-815}
+[07Feb2025 17:51:50.965] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2118ms or 42 ticks
+[07Feb2025 17:51:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s got ripped apart by a Death Angel
+[07Feb2025 17:52:01.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[07Feb2025 17:52:01.756] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:52:06.722] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[07Feb2025 17:52:08.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> santi
+[07Feb2025 17:52:12.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> esperame para matarlo
+[07Feb2025 17:52:13.802] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2046ms or 40 ticks
+[07Feb2025 17:52:20.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4010ms or 80 ticks behind
+[07Feb2025 17:52:30.920] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2045ms or 40 ticks
+[07Feb2025 17:52:36.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> tengo mis cosas
+[07Feb2025 17:52:41.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5746ms or 114 ticks behind
+[07Feb2025 17:52:41.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> esperame
+[07Feb2025 17:52:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> dale te espero
+[07Feb2025 17:52:53.883] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
+[07Feb2025 17:53:00.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
+[07Feb2025 17:53:10.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> cuando estes avisame
+[07Feb2025 17:53:15.655] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:53:17.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[07Feb2025 17:53:25.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> toy+
+[07Feb2025 17:53:37.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> eeuuu
+[07Feb2025 17:54:21.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s was doomed to fall
+[07Feb2025 17:54:23.061] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:54:26.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Feb2025 17:54:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiesp burned to death
+[07Feb2025 17:54:30.980] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[07Feb2025 17:54:37.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:37.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:37.393] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:37.502] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:37.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:37.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:37.870] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:38.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:38.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:38.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:38.541] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:38.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:38.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:38.902] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:39.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:39.198] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2059ms or 41 ticks
+[07Feb2025 17:54:39.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:39.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:39.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:39.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:39.871] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:39.992] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:40.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:40.242] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:40.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:40.502] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:40.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:40.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:40.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:41.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:41.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:41.351] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:41.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:41.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:41.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:41.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:42.070] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:42.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:42.395] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:42.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:42.702] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:42.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:42.980] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:43.105] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:43.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:43.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:43.524] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:43.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:43.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:43.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.331] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.465] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:44.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.171] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.293] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:45.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:46.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> la con
+[07Feb2025 17:54:46.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:46.383] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:46.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:46.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:46.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:46.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[07Feb2025 17:54:47.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:47.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:47.439] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:47.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:47.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:47.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:48.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:48.171] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:48.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:48.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:48.601] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:48.741] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:48.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:49.028] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:49.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:49.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:49.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:49.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:49.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:54:49.967] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 17:55:03.719] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:55:04.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
+[07Feb2025 17:55:17.033] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[07Feb2025 17:55:22.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[07Feb2025 17:55:33.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> necesito matar un alien para conseguir mis cosas
+[07Feb2025 17:55:42.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> tenes la mierda para aturdir
+[07Feb2025 17:55:46.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> no me dio nada el boss
+[07Feb2025 17:55:53.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Feb2025 17:55:53.857] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
+[07Feb2025 17:55:58.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> desaparecio
+[07Feb2025 17:56:05.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> por que morimos muchas veces
+[07Feb2025 17:56:10.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[07Feb2025 17:56:14.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> xd
+[07Feb2025 17:56:20.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> veni
+[07Feb2025 17:56:37.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[07Feb2025 17:56:54.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[07Feb2025 17:57:08.229] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2019ms or 40 ticks
+[07Feb2025 17:57:12.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[07Feb2025 17:57:48.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> nio para
+[07Feb2025 17:57:54.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> no tengo mas manzanas
+[07Feb2025 17:58:01.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> concha
+[07Feb2025 17:58:04.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Feb2025 17:58:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> anda a casa a crafteralas
+[07Feb2025 17:58:12.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> no podiamos invocarlo en el overworld
+[07Feb2025 17:58:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> que ahi podemos usar agua
+[07Feb2025 17:58:18.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> yo levoy bajandop la vida
+[07Feb2025 17:58:22.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[07Feb2025 17:58:33.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> no es si o si en el nehter
+[07Feb2025 17:58:39.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[07Feb2025 17:58:46.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sFACUsN6s was slain by Zoranth, the Forgotten One
+[07Feb2025 17:58:48.312] [Server thread/INFO] [do_a_barrel_roll/]: Client of sFACUsN6s accepted server config.
+[07Feb2025 17:58:59.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5489ms or 109 ticks behind
+[07Feb2025 17:59:14.324] [Server thread/INFO] [do_a_barrel_roll/]: Client of santiesp accepted server config.
+[07Feb2025 17:59:20.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5676ms or 113 ticks behind
+[07Feb2025 17:59:22.474] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2001ms or 40 ticks
+[07Feb2025 17:59:40.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4666ms or 93 ticks behind
+[07Feb2025 17:59:51.157] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2098ms or 41 ticks
+[07Feb2025 18:00:00.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5523ms or 110 ticks behind
+[07Feb2025 18:00:07.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> santi invocamos la de diamante
+[07Feb2025 18:00:18.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> y lo matamos
+[07Feb2025 18:00:20.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5122ms or 102 ticks behind
+[07Feb2025 18:00:27.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiesp> banca
+[07Feb2025 18:00:41.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6184ms or 123 ticks behind
+[07Feb2025 18:00:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sFACUsN6s> toma
+[07Feb2025 18:01:04.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8052ms or 161 ticks behind

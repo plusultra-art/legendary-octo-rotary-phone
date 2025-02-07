@@ -12320,6 +12320,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-02-03 03:38:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-02-03 03:38:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/ride_submarine": {
     "criteria": {
       "ride_a_boat_with_a_goat": "2025-02-03 03:39:30 +0000"
@@ -12338,27 +12350,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper_slab": "2025-02-03 03:46:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-02-03 04:30:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-02-03 03:41:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-02-03 03:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-02-03 03:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-02-03 03:46:57 +0000"
     },
     "done": true
   },
@@ -12374,51 +12404,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-02-03 04:32:27 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
-    "criteria": {
-      "abyssal_ruins": "2025-02-03 03:38:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-02-03 03:47:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2025-02-03 03:41:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/mussel": {
-    "criteria": {
-      "mussel": "2025-02-03 03:44:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-02-03 03:46:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_chasm": {
-    "criteria": {
-      "discover": "2025-02-03 03:38:31 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/repair_submarine": {
-    "criteria": {
-      "interact": "2025-02-03 04:09:15 +0000"
     },
     "done": true
   },
@@ -12428,15 +12416,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-02-03 03:41:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-02-03 03:47:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/repair_submarine": {
+    "criteria": {
+      "interact": "2025-02-03 04:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-03 04:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-03 04:32:27 +0000"
     },
     "done": true
   },

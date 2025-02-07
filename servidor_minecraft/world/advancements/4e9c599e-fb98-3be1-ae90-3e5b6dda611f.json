@@ -7665,6 +7665,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-07 19:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-02-07 19:40:29 +0000"

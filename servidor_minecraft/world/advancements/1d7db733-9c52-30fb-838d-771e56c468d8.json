@@ -12473,6 +12473,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-02-07 19:56:10 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/magnet": {
     "criteria": {
       "azure": "2025-02-07 19:45:11 +0000"
@@ -12500,6 +12506,12 @@
   "alexscaves:alexscaves/defeat_boundroid": {
     "criteria": {
       "killed": "2025-02-07 19:47:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-02-07 19:52:43 +0000"
     },
     "done": true
   },

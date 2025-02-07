@@ -685,3 +685,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [07Feb2025 16:35:57.477] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2040ms or 40 ticks
 [07Feb2025 16:37:57.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emizz lost connection: Timed out
 [07Feb2025 16:37:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz left the game
+[07Feb2025 16:44:04.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emizz[/127.96.44.206:56345] logged in with entity id 1382 at (-2042.1146751082956, 69.0, -1013.782084711133)
+[07Feb2025 16:44:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emizz joined the game
+[07Feb2025 16:44:18.357] [Server thread/INFO] [do_a_barrel_roll/]: Client of emizz accepted server config.

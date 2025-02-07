@@ -7453,15 +7453,27 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_planks": {
-    "criteria": {
-      "has_logs": "2025-02-07 17:43:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-02-07 17:25:28 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-02-07 17:25:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-07 17:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 17:25:28 +0000"
     },
     "done": true
   },
@@ -7471,21 +7483,39 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch": {
+  "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
-      "has_wood": "2025-02-07 17:49:09 +0000"
+      "has_item": "2025-02-07 17:28:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
-      "has_log": "2025-02-07 17:49:09 +0000"
+      "has_item": "2025-02-07 17:28:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
-      "has_bone_block": "2025-02-07 17:47:50 +0000"
+      "has_item": "2025-02-07 17:28:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-02-07 17:28:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 17:43:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 17:43:07 +0000"
     },
     "done": true
   },
@@ -7501,33 +7531,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-02-07 17:49:09 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/umbran_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-07 17:43:14 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-02-07 17:25:28 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/umbran_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-07 17:43:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
-    "criteria": {
-      "has_item": "2025-02-07 17:28:21 +0000"
     },
     "done": true
   },
@@ -7549,27 +7561,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_wood": {
-    "criteria": {
-      "has_log": "2025-02-07 17:43:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_boots": {
-    "criteria": {
-      "has_item": "2025-02-07 17:28:21 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/umbran_sign": {
     "criteria": {
       "has_umbran_planks": "2025-02-07 17:43:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-07 17:28:21 +0000"
     },
     "done": true
   },
@@ -7579,21 +7573,33 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "banana": "2025-02-07 17:25:28 +0000"
+      "has_bone_block": "2025-02-07 17:47:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "mcwfurnitures:recipes/birch": {
     "criteria": {
-      "has_logs": "2025-02-07 17:25:28 +0000"
+      "has_wood": "2025-02-07 17:49:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_item": "2025-02-07 17:28:21 +0000"
+      "has_log": "2025-02-07 17:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 17:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-07 18:02:00 +0000"
     },
     "done": true
   },

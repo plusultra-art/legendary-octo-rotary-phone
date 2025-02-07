@@ -12443,6 +12443,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-02-07 19:35:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-02-07 19:22:45 +0000"
@@ -12476,6 +12482,12 @@
   "biomesoplenty:recipes/decorations/fir_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-02-07 18:30:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-02-07 19:35:34 +0000"
     },
     "done": true
   },

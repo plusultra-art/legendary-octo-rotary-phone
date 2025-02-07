@@ -7671,6 +7671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-07 19:28:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
     "criteria": {
       "has_item": "2025-02-07 19:18:43 +0000"

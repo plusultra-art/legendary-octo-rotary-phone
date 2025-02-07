@@ -4874,6 +4874,7 @@
   "vinery:main/crop_collector": {
     "criteria": {
       "vinery:jungle_grape_seeds_red": "2024-12-19 01:12:42 +0000",
+      "vinery:jungle_grape_seeds_white": "2025-02-07 17:22:04 +0000",
       "vinery:red_grape_seeds": "2024-12-15 02:31:05 +0000",
       "vinery:taiga_grape_seeds_white": "2024-12-15 01:16:08 +0000"
     },
